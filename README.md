@@ -3,7 +3,7 @@
 
 
 
-- Alunos: Alany Gabrielly da Silva |
+- Alunos: Alany Gabriely Lourenço da Silva |
          Filipe Duarte da Rocha Paço
 >Sebo ou alfarrabista é o nome popular dado a livrarias que compram, vendem e trocam livros usados.
 
