@@ -1,5 +1,5 @@
 
-public class Livro 
+public class Livro implements java.io.Serializable
 {
     private static int quant;
 
@@ -155,7 +155,7 @@ public class Livro
     // int b = Integer.parseInt(JOptionPane.showInputDialog("Quando você adquiriu o livro, ele ja era usado? Digite 1 se sim e 0 se não"));//ja era usado
    //  int c = Integer.parseInt(JOptionPane.showInputDialog("Se pudesse dar um valor de 0 à 10 para o estado de conservação do seu livro, qual seria?"));//sinceridade
 
-     if(b == 1)//se ja era usado entao vale menos provavelmente
+     if(b == 0)//se ja era usado entao vale menos provavelmente
      {
         if(a > 5)//então temos um máximo de quatro anos de uso continuo(leitura ao menos semanal do livro) para poder estar conservado
         {
@@ -190,7 +190,7 @@ public class Livro
      }
 
      
-     if(b == 0)
+     if(b == 1)
      {
         if(a > 10)
         {  
@@ -220,10 +220,18 @@ public class Livro
      }
     }
 
+    //testar essa função
+
     public static int quant()
     {
         return quant;
     }
+
+    public static void setQuant(int quanti)
+    {
+        quant = quanti;
+    }
+
     public static void delLivro()
     {
         quant = quant - 1;
@@ -231,7 +239,12 @@ public class Livro
 
     public String toString()
     {
-        return "Codigo do livro: " + cod +" - Titulo do livro: " + titulo + "  - Autor do livro: " + autor + "   - Ilustrador: " + ilustrador + "   - Editora: " + editora + "   - Edição: " + edicao 
-        + "  Preço do livro: " + preco + "R$" + "   Numero de paginas: " + numpag + "   Categoria: " + categoria;
+        return "|------------------------------------------------------------------------------------|\n"+
+               "| Codigo do livro: " + cod +"  - Titulo do livro: " + titulo + "                     |" +
+             "|\n|  - Autor do livro: " + autor + "   - Ilustrador: " + ilustrador +
+             "\n|  - Editora: " + editora + "    - Edição: " + edicao +   "                          |" +
+             "\n|  Preço do livro: " + preco + "R$" + "   Numero de paginas: " + numpag +"           |" +
+             "\n|  Categoria: " + categoria + "                                                      |" +
+             "\n|------------------------------------------------------------------------------------|";
     }
 }

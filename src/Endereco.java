@@ -1,4 +1,4 @@
-public class Endereco {
+public class Endereco implements java.io.Serializable{
 	/*- setor: String
 - numero: int
 - rua: String

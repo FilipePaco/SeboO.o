@@ -1,0 +1,1001 @@
+0,Late Night Shopping,Gennie Eagland,,"Hartmann, Morar and Kautzer",2007,325,Comedy,0.1
+3,"Anthropophagus: The Grim Reaper (Antropophagus) (Man Beast) (Savage Island, The) (Zombie's Rage, The)",Paulie Walczak,,Walsh and Sons,1984,297,Horror,0.1
+1,Ravenous,Stephana Parlett,Leif Haddon,Miller and Sons,2008,986,Horror|Thriller,0.1
+0,Scum,Courtnay Cristoforetti,Brook Butter,Ebert Group,2001,460,Crime|Drama,0.1
+1,The Killers,Isobel Corneljes,Perry Litel,Schuppe Group,1997,467,Crime,0.1
+0,"Mosquito Coast, The",Robbin Clewer,Noelle Bines,"Barton, Bailey and Swaniawski",1987,634,Adventure|Drama|Thriller,0.1
+3,Belphecor: Curse of the Mummy (Belphégor - Le fantôme du Louvre),Pebrook Hasloch,,"Jaskolski, Greenfelder and Christiansen",1967,610,Fantasy|Horror|Mystery,0.1
+2,Dance with Me,Swen Orange,,Torphy-Stehr,1993,232,Drama|Romance,0.1
+1,Nico Icon,Angelle Giovannelli,,Pouros-Rodriguez,2005,467,Documentary,0.1
+2,Hulk Vs.,Diandra Corgenvin,,"Pagac, Predovic and Weber",2008,911,Animation,0.1
+2,"Royal Tenenbaums, The",Eben Grigg,Benyamin Donkersley,Dibbert-Nolan,1996,222,Comedy|Drama,0.1
+3,"Man from Earth, The",Dorie Kernaghan,Estrella Banker,"Dare, Bosco and Grady",2006,224,Drama|Sci-Fi,0.1
+1,Gunman's Walk ,Jameson Angrave,Leslie Gulleford,Simonis-Ruecker,2006,629,Western,0.1
+1,North Face (Nordwand),Adena Soda,,Boyle LLC,2008,205,Adventure|Drama,0.1
+1,"Brony Tale, A",Imojean Bohlje,,Hoppe-Anderson,1988,965,Documentary,0.1
+3,Billy the Kid vs. Dracula,Nichole Rodliff,,Zboncak and Sons,1994,451,Action|Drama|Horror,0.1
+0,Red Sorghum (Hong gao liang),Fabien Duggen,Beatrix Hexter,Kuhic-Okuneva,1993,142,Drama|War,0.1
+3,Cold Fish (Tsumetai nettaigyo),Kendell Searsby,,Armstrong-Morar,1993,163,Drama|Thriller,0.1
+3,Million Dollar Arm,Emili Murkus,,Blick LLC,2008,895,Comedy|Drama,0.1
+1,Solitary Man,Virgina Feak,Edsel Yegoshin,Franecki-Swift,2003,472,Comedy|Drama,0.1
+0,The Humanoid,Lianne Racine,,"Konopelski, Harber and Robel",2005,615,Fantasy|Sci-Fi,0.1
+2,Five Star Final,Claudian Wetherald,,Effertz-Sawayn,1995,401,Drama,0.1
+2,"Dead Hate the Living!, The",Marquita Dragonette,,"Nader, Littel and Hilpert",2011,978,Comedy|Horror,0.1
+0,Veronica Mars,Erhard Vowell,,Feeney-Kub,2002,321,Comedy|Crime|Drama,0.1
+1,"Pancho, the Millionaire Dog",Hillie Demangeon,,"Kautzer, Greenholt and Skiles",1984,617,Children|Comedy,0.1
+0,Rosewood,Jephthah Losebie,,Hansen-Fisher,2010,984,Action|Drama,0.1
+1,"Backyard, The",Leland Lutas,Annette Boylund,"Grady, Hoppe and Beatty",1990,697,Documentary,0.1
+2,Storm Rider,Genovera Dedden,,Graham-Carroll,2004,883,Drama,0.1
+2,Rodan (Sora no daikaijû Radon),Noni Janda,,"Cummings, Cummerata and Powlowski",2012,742,Adventure,0.1
+3,"Curious Case of Benjamin Button, The",Cherlyn Tregale,Veronique Laws,O'Hara LLC,2002,256,Drama|Fantasy|Mystery|Romance,0.1
+2,Fando and Lis (Fando y Lis),Leia Retallick,,"Cummings, Gorczany and Grimes",1996,726,Adventure|Fantasy,0.1
+0,BFFs,Hermine Apfler,,"Donnelly, Walsh and Lindgren",1992,766,Comedy,0.1
+1,Zeitgeist: Moving Forward,Clevey Trahear,,"Zemlak, Konopelski and Rempel",2008,654,Documentary,0.1
+3,"Cutting Edge: The Magic of Movie Editing, The",Gram Elger,Fania Goldhill,"Cruickshank, Vandervort and Renner",1999,798,Documentary,0.1
+1,Vampires,Keelby Kiessel,Izabel Ottam,Kertzmann-Weimann,1992,477,Horror|Western,0.1
+1,Like Minds (Murderous Intent),Nixie Fleet,Romain Laister,Lind Inc,2011,953,Crime|Mystery|Thriller,0.1
+3,Neighbors,Jerry Burrill,Morganne Simcox,"Lehner, Klein and Walker",1992,576,Comedy,0.1
+1,TT3D: Closer to the Edge,Didi Klamp,Earlie Rixon,Douglas LLC,1997,281,Documentary,0.1
+2,Scream of Stone (Cerro Torre: Schrei aus Stein),Vania Gebhard,Grover Speaks,Gleason Group,1997,553,Drama,0.1
+3,"Grandmaster, The (Yi dai zong shi)",Natty Bransgrove,,Wehner LLC,2007,431,Action|Drama|IMAX,0.1
+2,I Will Follow You Into the Dark,Janeczka Streat,Humphrey Jeroch,"Fritsch, Oberbrunner and Stoltenberg",1987,410,Drama|Horror|Romance,0.1
+3,Surviving Christmas,Papageno Smoughton,Davina Rentoll,Emard-Ullrich,2004,243,Comedy,0.1
+0,Chocolate,Leticia Grevel,,Marks-Kiehn,2010,357,Action|Drama,0.1
+2,Pokémon: The First Movie,Lorna Pappi,,Crooks and Sons,2001,413,Adventure|Animation|Children|Fantasy|Sci-Fi,0.1
+2,Like Minds (Murderous Intent),Bucky Muckian,Derk Stutely,Flatley LLC,1995,555,Crime|Mystery|Thriller,0.1
+1,Girls on Top,Huntlee Rylance,,"Flatley, Rolfson and Wintheiser",1993,147,Comedy,0.1
+1,"Man Next Door, The (El hombre de al lado)",Gordan D'Antuoni,,Wintheiser-Mraz,2007,212,Drama,0.1
+1,"Terrible Kids (Enfants terribles, Les) (Strange Ones, The)",Wayland Defont,,"Senger, Schmidt and Green",2013,535,Drama,0.1
+0,Johnny Mnemonic,Puff Sheldon,,Farrell-Schiller,2004,227,Action|Sci-Fi|Thriller,0.1
+1,You Are the Apple of My Eye,Baxy Hext,Clyve Wind,"Muller, Walker and Spencer",1997,926,Comedy|Drama|Romance,0.1
+1,Beyond Outrage,Olivero Jansema,,Konopelski Group,2004,755,Action,0.1
+2,St. Ives,Gregory Leamon,,"Herman, Steuber and Ruecker",2004,227,Crime|Mystery|Thriller,0.1
+2,Trailer Park Boys,Romeo Witherby,,Waters and Sons,2000,444,Comedy|Crime,0.1
+1,Jersey Girl,Cicely Chesterton,Jorgan Gallahar,"Collier, Ortiz and Lowe",1995,801,Comedy|Drama|Romance,0.1
+2,"Heartbreak Kid, The",Katine Collet,,Dickens Inc,2003,929,Comedy|Romance,0.1
+3,V/H/S/2,Mervin Tregonna,,"Daugherty, Medhurst and Sipes",1990,166,Horror|Thriller,0.1
+2,Transporter 3,Forest Beevers,Vonnie Richens,"Morissette, Bradtke and Okuneva",1996,442,Action|Adventure|Crime|Thriller,0.1
+3,Dark Dungeons,Barnett Salamon,,Smitham-Orn,1997,672,Drama|Fantasy,0.1
+2,"Time Masters (Maîtres du temps, Les)",Lonna Innett,,Bayer Group,2003,251,Animation|Sci-Fi,0.1
+3,Freeway,Hollyanne MacCostye,,Waters-Collins,2006,709,Thriller,0.1
+1,Interview,Colby Hollyar,,"Grimes, Greenholt and Keebler",1989,742,Drama,0.1
+3,White Squall,Linea Huitson,Colet Mallord,"Abernathy, Murazik and Dooley",2005,340,Action|Adventure|Drama,0.1
+2,Magic & Bird: A Courtship of Rivals,Dorey Shatford,,Swaniawski and Sons,2010,326,Documentary,0.1
+0,"Fiancee, The (Parineeta)",Otha Vernazza,,Bednar Inc,2003,68,Drama,0.1
+1,"Art of War III: Retribution, The",Kenton Vakhrushev,Dante Andryushchenko,"Kohler, Metz and Miller",1997,83,Action|Thriller,0.1
+3,Project A ('A' gai waak),Jennica Birley,Rowen Condie,"Wiza, Howe and Rath",1987,778,Action|Comedy,0.1
+3,In Old Arizona,Chelsea Cripps,Fannie Bavage,Schultz-Kerluke,1998,293,Romance|Western,0.1
+2,Les disparus de Saint-Agil,Dreddy Fenech,Chicky Bruff,"Blick, Wuckert and Legros",1985,490,Drama|Mystery,0.1
+2,Our Beloved Month of August (Aquele Querido Mês de Agosto),Bari Ord,,"Gorczany, Medhurst and Hilpert",1993,273,Romance,0.1
+0,Alien Nation: The Enemy Within,Lilith Stuer,,"Mitchell, Wiza and Murphy",1992,949,Sci-Fi,0.1
+0,"Killers, The",Marquita Eddicott,,Hand and Sons,1994,464,Crime|Film-Noir,0.1
+2,"Defender, The",Antonia Pawlata,Clayborn Franzonetti,Watsica Group,2009,398,Action,0.1
+3,"Notorious Landlady, The",Stafford Ketts,,Doyle and Sons,2000,620,Comedy|Mystery,0.1
+2,There's Something About Mary,Rosalia Caltun,Owen Vaszoly,Beatty LLC,2008,858,Comedy|Romance,0.1
+0,Talking About Sex,Jedidiah Benyan,Faber Mouland,Ward Inc,2012,780,Comedy|Drama,0.1
+3,9 Souls (Nain souruzu),Flori Twell,Dal Regis,"Padberg, Steuber and Lowe",1989,865,Drama,0.1
+2,"Cameraman, The",Claudius Troppmann,Maxine Veryard,"Moore, Sporer and Fritsch",1995,61,Comedy|Drama|Romance,0.1
+0,When Marnie Was There,Leonardo Dunsford,Elna Late,"Schultz, Reilly and Lindgren",2008,812,Animation|Drama,0.1
+2,The Magnificent Trio,Andrus Nevins,Chad Masedon,"Jacobi, Bernier and Wyman",2002,649,Action|Drama|Romance,0.1
+3,"Cameraman, The",Forbes Golda,,Breitenberg Group,1993,337,Comedy|Drama|Romance,0.1
+1,Rasen,Westbrooke De Michetti,,Huel Group,2011,962,Drama|Fantasy|Horror|Mystery|Thriller,0.1
+0,Suur Tõll,Sherilyn Benedettini,,"Nienow, Jacobi and Tremblay",1998,432,(no genres listed),0.1
+3,Land of Happines (Onnen maa),Dex Haug,Elsa Iianon,Tremblay-Lindgren,2011,78,Drama,0.1
+1,Serious Moonlight,Oberon Willshee,Dana Walworche,Dickinson Group,2001,224,Comedy|Crime|Drama|Romance,0.1
+0,Broken Lullaby (a.k.a. The Man I Killed),Bud Kinze,,Stokes-Koss,1994,520,Drama,0.1
+0,"Shot at Glory, A",Thorin Jays,Sloane Endle,"Keeling, McClure and Bode",1988,835,Drama,0.1
+3,Thirty-Two Short Films About Glenn Gould,Bryan Rubinfeld,,Fadel-Reinger,1996,495,Drama|Musical,0.1
+0,Lake of Fire,Norry Blanckley,Dannye Carabet,"Bashirian, Becker and Konopelski",2003,201,Documentary,0.1
+0,"Acacias, Las",Kiley Gartan,,Davis LLC,1998,993,Drama,0.1
+0,Shockproof,Brittani Trahar,Cathrin Hume,Abernathy-Jerde,2010,230,Crime|Drama|Film-Noir,0.1
+2,Home Movie,Anderea Yarrow,,Pfannerstill LLC,1998,515,Documentary,0.1
+2,Friends & Lovers,Dorothea Accum,,Cremin-Dickens,2010,144,Comedy|Drama|Romance,0.1
+2,Atonement,Heriberto Ewin,Kurt Groundwator,Robel-Bergnaum,2012,172,Drama|Romance|War,0.1
+1,Stingray Sam,Herminia Chesney,,Lockman-Schamberger,2003,950,Comedy|Musical|Sci-Fi|Western,0.1
+0,Small Town of Anara (Qalaqi Anara),Doralynn Iacopini,,Witting-Schimmel,2005,837,Comedy,0.1
+2,Oxygen,Nickolas Stedmond,,Fay and Sons,2009,351,Drama|Musical,0.1
+1,Lenny,Berna Bougen,,D'Amore Group,2007,411,Drama,0.1
+2,We're No Angels,Salim Crombie,,Willms-Metz,1972,662,Comedy|Crime,0.1
+2,Children of the Corn: Revelation,Dotty Ingman,,Botsford and Sons,1994,774,Horror|Thriller,0.1
+1,I Was a Male War Bride,Jarrad Gamil,Priscella Foxall,Dibbert-Witting,2006,509,Comedy|Romance,0.1
+2,"Impossible, The (Imposible, Lo)",Jammal Olivera,Kassia Grestie,"Waelchi, Baumbach and Runolfsson",1996,317,Drama|Thriller,0.1
+0,Import/Export,Ramsay Bursnall,Noah Golsby,Simonis and Sons,1985,230,Drama,0.1
+0,Clownhouse,Mattias Peacocke,,Jakubowski and Sons,1997,608,Horror,0.1
+2,Charlie Chan in The Chinese Cat,Korney O'Sharkey,,"Schulist, Legros and Tremblay",2006,179,Comedy|Crime|Mystery|Thriller,0.1
+3,48 Shades,Huntlee Brosel,Bradan Leeb,Jacobson LLC,2012,284,Comedy|Drama,0.1
+2,Dracula: Pages from a Virgin's Diary,Karyn Izkoveski,,"Weissnat, Haley and Doyle",1994,147,Horror|Mystery,0.1
+0,Fast Life,Obie Bellam,,Hills Inc,2005,578,Comedy|Romance,0.1
+1,"Statues Also Die (Statues meurent aussi, Les)",Gizela Kelf,Ive Brakewell,"Funk, Emard and Rau",2000,76,Documentary,0.1
+3,Aurora,Padriac Glazzard,,Barrows Inc,2007,616,Drama,0.1
+3,"Hour of the Pig, The",Igor Fearns,Kerrin Giurio,"Hessel, Runte and Feil",1992,661,Crime|Drama|Mystery,0.1
+2,Pawn Shop Chronicles,Chickie Witt,,Jerde LLC,1992,946,Action|Comedy,0.1
+3,Wagner's Dream,Elsbeth Mylchreest,Constance Pleuman,"Jakubowski, Kilback and Ondricka",2010,596,Documentary,0.1
+3,Cold Prey III (Fritt Vilt III),Brett Chalcroft,,Schulist Group,1995,933,Horror,0.1
+0,Nickelodeon,Thorsten Rouff,Ursola Tulk,Carroll-Tremblay,2002,514,Comedy,0.1
+0,"Barefoot Executive, The",Sarajane Thistleton,,Murazik-O'Hara,2009,435,Children|Comedy,0.1
+1,"Kiss, The",Debor Hatherall,,Sipes-Nitzsche,2012,569,Horror,0.1
+3,Bang,Jania Hillaby,,Carter Inc,1987,903,Crime|Drama,0.1
+3,"House of Small Cubes, The (Tsumiki no ie)",Tricia Batisse,Paddy Habard,"Windler, Ryan and Hahn",1995,157,Animation|Drama,0.1
+1,Monty Python's Life of Brian,Aimil Gazzard,,Huels Group,2000,259,Comedy,0.1
+3,Still of the Night,Cloris Siddon,,Rosenbaum-Graham,1993,573,Mystery|Thriller,0.1
+2,Lottery Ticket,Spense Duker,Wittie Scutcheon,Mertz-Walsh,2012,505,Comedy,0.1
+2,Jonah Hex,Ricki Rudolph,,Paucek and Sons,2000,135,Action|Drama|Thriller|Western,0.1
+1,Starting Over,Cynthie Yockney,,Hagenes-Emard,2008,623,Comedy|Romance,0.1
+1,Son of Rambow,Scotti Minet,Candide Dowling,"Ritchie, Kling and Wilderman",2005,549,Children|Comedy|Drama,0.1
+1,Hold That Ghost,Julienne Mithun,Christoph Tregunnah,Blanda-Casper,2003,991,Adventure|Comedy,0.1
+0,Inside Deep Throat,Barbabas Disbrow,,Walter-Schuppe,1990,123,Documentary,0.1
+3,Mimino,Rees Casajuana,,Hodkiewicz Group,2004,355,Comedy,0.1
+3,Zero de conduite (Zero for Conduct) (Zéro de conduite: Jeunes diables au collège),Nadeen Rodolf,Oswell Tabor,Auer and Sons,2006,133,Comedy|Drama,0.1
+2,"Foreigner, The",Graeme Amsden,,Streich Group,2009,905,Drama,0.1
+0,"Classic, The (Klassikko)",Shaughn Mayman,Isiahi Jex,Heller Group,1998,607,Comedy|Drama,0.1
+0,Lady Oscar,Candace Maletratt,,Schroeder-White,1995,749,Drama,0.1
+2,Career,Olin Issitt,,Will-Marquardt,1994,416,Drama,0.1
+2,"Scorpion King 3: Battle for Redemption, The",Ethelred Cosgriff,Rhea Curcher,Johnson LLC,2004,423,Action|Adventure|Comedy|Fantasy,0.1
+3,"Blind Swordsman: Zatoichi, The (Zatôichi)",Lucie Tombs,Marina Reye,Klocko Inc,1988,862,Action|Comedy|Crime|Drama,0.1
+0,"Ron Clark Story, The",Jack Leyre,,Beatty LLC,2009,181,Drama,0.1
+3,AVP: Alien vs. Predator,Emmi Whyler,Carleen Hearson,"Toy, Kuhlman and Koelpin",1985,808,Action|Horror|Sci-Fi|Thriller,0.1
+2,Father of the Bride,Reed Klimushev,Hadria Sindell,"Hermann, Bauch and Krajcik",1990,463,Comedy,0.1
+1,Louisiana Story,Clemmy Iori,Odette Basillon,Fisher-Kuvalis,2000,362,Drama,0.1
+3,Damnation (Karhozat),Ennis Reuble,,Denesik-Mosciski,1996,194,Drama|Film-Noir,0.1
+0,King of the Hill,Artemas Lloyd-Williams,,Pollich-West,2006,313,Drama,0.1
+1,Kings of Recycling (Kierrätyksen kuninkaat),Sibylle Courtin,,"Hyatt, Bogisich and Satterfield",1986,480,Documentary,0.1
+0,Vasermil,Arlyne Kuhlen,Ario Northam,Schimmel LLC,2006,466,Drama,0.1
+3,"Story of Science, The",Daria Alston,,Huel-Mueller,2006,919,Documentary,0.1
+2,Blind Date,Queenie Kimmel,,"Tremblay, Harber and Schowalter",1985,854,Horror|Thriller,0.1
+0,Soul Surfer,Danni Cornish,,Feil LLC,1987,586,Action|Drama,0.1
+2,The Possession of Michael King,Misha Gaspard,Boyce Marion,Considine-Olson,1986,690,Horror,0.1
+2,Saint (Sint),Averell Vaudin,,Altenwerth LLC,2000,967,Horror,0.1
+3,"Time to Kill, A",Nicolette Speers,Ariel Crowley,Kuvalis-Ruecker,2008,231,Drama|Thriller,0.1
+1,Mission to Moscow,Katrine Stiggles,Ignacio Minto,"Brakus, Grant and Littel",1985,605,Drama|War,0.1
+1,The Hound of the Baskervilles,Marcy Gunney,,"O'Kon, Bashirian and Bayer",2011,460,Crime|Drama|Horror|Mystery,0.1
+1,"Hurricane, The",Reginald Haston,,"Harris, Nicolas and Oberbrunner",1996,330,Drama,0.1
+0,Wild Things,Sherm Birwhistle,,Brakus Group,1998,77,Crime|Drama|Mystery|Thriller,0.1
+0,"Nightmare on Elm Street 4: The Dream Master, A",Leda Weepers,,"Wiegand, Gorczany and Kshlerin",2011,82,Horror|Thriller,0.1
+1,Beauty and the Boss,Giacinta MacGray,,"Hodkiewicz, Steuber and Walsh",2007,398,Comedy|Romance,0.1
+2,"I Was Born, But... (a.k.a. Children of Tokyo) (Otona no miru ehon - Umarete wa mita keredo)",Howie Strathearn,Nadya Ivkovic,Stiedemann-Cruickshank,1996,673,Comedy|Drama,0.1
+3,It Conquered the World,Barbabas Ruperto,,Armstrong-Hackett,2011,427,Sci-Fi,0.1
+3,"Tough Ones, The (Häjyt)",Fabian O'Grady,,"Crona, Feest and Klocko",2009,749,Action|Drama,0.1
+0,Just the Ticket,Elna Gerrett,,Jerde-Dach,2012,467,Comedy|Romance,0.1
+3,The Harry Hill Movie,Maxy Grason,,Bergstrom-Mraz,2010,779,Comedy,0.1
+2,Last Days Here,Yoshi Pegden,,"Wolf, Renner and Feest",1998,162,Documentary,0.1
+3,Return of the Street Fighter (Satsujin ken 2),Kelcie Endersby,,"Breitenberg, Medhurst and Bernhard",2001,77,Action|Crime|Drama,0.1
+0,Illegal,Marlee Leyband,Garvy Treslove,"Mante, Hagenes and Stokes",1999,476,Crime|Drama|Film-Noir,0.1
+2,Way... Way Out,Angil Rousell,,Denesik and Sons,1984,122,Comedy|Sci-Fi,0.1
+3,Karlsson on the Roof,Sonni Eary,,"Raynor, Borer and Conroy",1998,700,Children,0.1
+2,This Is the End,Corny Kermode,Allister Hurring,"Paucek, Barrows and Funk",2008,908,Action|Comedy,0.1
+1,Katie Tippel (Keetje Tippel),Brandyn McSaul,,Marks Inc,2000,310,Drama,0.1
+2,"Story of Us, The",Yves Gobourn,,"Wuckert, O'Conner and Schoen",2003,414,Comedy|Drama,0.1
+1,PoliWood,Ronalda Fancutt,Brigitte Fonzo,Parker-Schmidt,1999,501,Documentary,0.1
+0,Ricochet,Gweneth Worvill,Erl Truman,"Rath, Parker and Nader",1996,189,Action|Crime|Thriller,0.1
+0,Poor Us: An Animated History of Poverty,Hayley Jiroutka,,Hegmann and Sons,2005,666,Animation|Documentary,0.1
+3,Rampo (a.k.a. The Mystery of Rampo),Levey Ferrillio,Neda Oldaker,"Kovacek, Zieme and Schaefer",2009,420,Drama|Mystery,0.1
+3,Curse of the Demon (Night of the Demon),Archer Pavyer,,Lebsack Group,1997,733,Fantasy|Horror|Mystery,0.1
+3,Flashback,Ginger Wilton,Clywd Bedle,Ratke Inc,2002,667,Action|Comedy,0.1
+2,X-Men Origins: Wolverine,Dewie Luigi,,Stracke LLC,1997,885,Action|Sci-Fi|Thriller,0.1
+1,A Good Marriage,Annissa Moult,,"Homenick, Torphy and Erdman",2007,442,Thriller,0.1
+3,"Grandfather, The (Abuelo, El)",Cordula Legate,,Swaniawski and Sons,1992,238,Drama,0.1
+1,In the Park,Kameko Fruish,Carson Causer,Doyle Group,2008,438,Comedy,0.1
+3,"Sunday in Kigali, A (Un dimanche à Kigali)",Ozzy Lawes,,Maggio-Weimann,1990,63,Drama|War,0.1
+3,"Crimson Rivers 2: Angels of the Apocalypse (Rivières pourpres II - Les anges de l'apocalypse, Les)",Orv McNess,,"Friesen, Fritsch and Balistreri",2012,945,Action|Crime|Thriller,0.1
+3,The Castle of Fu Manchu,Mersey Sarfat,Adelice Whardley,Keebler-Sauer,1999,838,Action|Crime|Horror,0.1
+1,Who's That Girl?,Devy Shedd,,"Hirthe, Crist and Kovacek",2008,973,Comedy,0.1
+0,"Laughing Woman, The (Frightened Woman, The) (Femina ridens)",Sophia Delmonti,Den Fynan,"Ledner, Bosco and Bernier",2013,872,Thriller,0.1
+1,Dumplings (Gaau ji),Cris Brookwood,,Schowalter and Sons,2006,710,Drama|Horror|Thriller,0.1
+0,"Report on the Party and the Guests, A (O slavnosti a hostech)",Euphemia Billo,,"Reinger, Krajcik and McGlynn",2005,797,Drama,0.1
+2,588 Rue Paradis (Mother),Dredi Bartzen,,Rippin and Sons,2011,311,Drama,0.1
+0,Me Without You,Corie Moreby,Milena MacCoveney,"Price, Russel and Rolfson",2008,288,Comedy|Drama,0.1
+1,"Amour fou, L'",Cosmo Hiland,Kirby Cattel,Ondricka-Wiegand,2002,735,Documentary,0.1
+3,"Swan, The",Modesty Allen,Tobe Emig,Pagac-Pollich,1997,435,Comedy|Drama|Romance,0.1
+3,Riffraff,Chet Cattemull,,Waters Group,1986,332,Crime|Drama,0.1
+1,"Dog, The",Kirstin Edlestone,,Boyle-Price,2008,78,Documentary,0.1
+1,Ways to Live Forever,Laurella Heel,Rhett Scarce,Feeney and Sons,2012,192,Children|Drama,0.1
+1,"Last Supper, The",Griffie Wreath,Leone Huxley,Ratke Inc,1997,305,Drama|Thriller,0.1
+1,Uncommon Valor,Lynnea Shakelade,Pier Clayfield,Kling-O'Reilly,2002,842,Action|War,0.1
+2,Beautiful Dreamer: Brian Wilson and the Story of 'Smile',Nadya Jerred,Wakefield Ensten,Little-Funk,2008,146,Documentary,0.1
+3,Get the Gringo,Sutherland De La Salle,,Parker Inc,2007,51,Action|Crime|Drama|Thriller,0.1
+0,Esa ja Vesa - auringonlaskun ratsastajat,Suzanna Novkovic,,"Runte, Hartmann and Roob",1992,886,Action|Adventure|Comedy|Crime,0.1
+1,Instinct,Meredeth Brodeau,,Glover Group,2001,168,Drama|Thriller,0.1
+2,Kiss of Death,Madelina Haimes,Letty Carwithim,"Johns, McGlynn and Rempel",1989,948,Crime|Drama|Thriller,0.1
+0,Amores Perros (Love's a Bitch),Francois Townsend,,Kovacek-Adams,1991,245,Drama|Thriller,0.1
+3,When a Stranger Calls,Townie Glasebrook,Lira Castagnone,"Herman, Price and Kovacek",2005,519,Horror|Thriller,0.1
+0,Wimbledon,Annadiana MacIver,Sully Domleo,Cruickshank and Sons,2001,186,Comedy|Romance,0.1
+0,Stay Cool,Milli Minshull,,"Durgan, Borer and Streich",2003,371,Comedy|Drama|Romance,0.1
+2,Black Beauty,Marys Gilpin,Nikkie Keating,Hayes-Schneider,2002,684,Adventure|Children|Drama,0.1
+0,Unleashed (Danny the Dog),Codi MacRirie,,Pfeffer-Schimmel,1994,909,Action|Crime|Drama|Thriller,0.1
+2,Nashville,Berni Turfus,,Pagac and Sons,1986,761,Drama|Musical,0.1
+1,Rammbock,Maurine Balser,Andre Stilling,"Hills, Nienow and Wilkinson",1993,636,Drama|Horror,0.1
+0,"Child I Never Was, The (Leben lang kurze Hosen Tragen, Ein)",Charmion Ducroe,,Kozey Group,2012,258,Crime|Drama,0.1
+2,Love Loves Coincidences,Tabbie Cargenven,,"Hirthe, Okuneva and Lubowitz",1989,179,Drama|Romance,0.1
+2,The Call of the Wild,Elwyn Domm,Konstantine Coupe,Hamill LLC,2006,418,Adventure|Children,0.1
+1,Insignificance,Viole Snaden,Maximo Cattonnet,Barrows Group,1967,101,Comedy|Drama,0.1
+3,Bandaged,Melisent Skamal,,Fritsch-Goodwin,2002,828,Thriller,0.1
+3,Om Shanti Om,Guinna Gleeson,,"Pagac, Effertz and Smitham",2010,73,Action|Drama|Musical|Romance,0.1
+0,Inside,Clerc Ilsley,Pammy Terris,Von Group,2007,533,Action,0.1
+3,"Goodbye Bafana (Color of Freedom, The)",Otes Maffey,,Kozey and Sons,2005,779,Drama|War,0.1
+3,"Devil and Miss Jones, The",Keriann Searle,Shell Clarkin,Schuppe and Sons,1986,748,Comedy|Romance,0.1
+0,Paid,Nancey Causnett,,Conn-Bernier,2006,155,Crime|Drama|Film-Noir,0.1
+2,"Mind Reader, The",Morey Pryn,,Schowalter LLC,2013,342,Drama|Romance,0.1
+2,Sugar & Spice,Benji Penkman,,"Frami, Stehr and Jaskolski",2004,401,Comedy,0.1
+0,"Last Seduction II, The",Kaja Cristofvao,Gerrilee Brower,Huels-Reilly,2003,729,Crime|Drama|Thriller,0.1
+1,King Kong vs. Godzilla (Kingukongu tai Gojira),Trueman Magowan,Darci MacKenzie,Torp-Hyatt,1998,465,Action|Sci-Fi,0.1
+0,Stakeout on Dope Street,Ardith Shearme,,"Herzog, Fay and Kemmer",2001,532,Crime|Drama,0.1
+0,Howling IV: The Original Nightmare,Cullin Touhig,Hillery Ratnege,"Brakus, Littel and Terry",1997,187,Horror,0.1
+0,Hukkle,Gerick Stormonth,,"Kuhlman, Ullrich and Roberts",2000,115,Crime|Drama|Mystery,0.1
+3,Giliap,Gertrud Woffinden,,"Cremin, Sanford and Watsica",1999,600,Crime|Drama,0.1
+1,Secret Ceremony,Adina Cairns,,Marquardt Inc,1985,300,Drama|Thriller,0.1
+0,Little Men,Almeria Beranek,,Bednar Inc,1965,305,Drama,0.1
+2,28 Up,Riva Ghidoli,Jobi Button,Parker-Smith,2007,354,Documentary,0.1
+2,"Soldier's Story, A",Harmon Winslow,Rasia Rathbone,"Price, Turner and Zboncak",2006,305,Drama,0.1
+3,Spider-Man 3,Leone Yerby,Wynn Aslie,Green and Sons,1993,984,Action|Adventure|Sci-Fi|Thriller|IMAX,0.1
+3,James Gandolfini: Tribute to a Friend,Susana Dewey,Clarie Gerardet,Trantow Inc,2011,294,Documentary,0.1
+1,Sabrina,Honor Parnell,,"Labadie, Williamson and Collier",2000,582,Comedy|Romance,0.1
+1,Aliisa,Lockwood Poulsen,,"Heaney, Dickens and Tillman",2004,696,Drama,0.1
+3,I Always Wanted to Be a Gangster (J'ai toujours rêvé d'être un gangster),Rori Peart,,Hackett LLC,1999,433,Comedy|Crime|Drama,0.1
+1,"Black Heaven (L'autre monde) (Other World, The)",Fara Kilian,,"Tremblay, Frami and Schmitt",1992,250,Drama,0.1
+0,"Pixar Story, The",Tania Polin,,"Turner, Hoeger and Schamberger",2006,386,Documentary,0.1
+2,Knucklehead,Orton Kropp,Brad Haylett,Konopelski-Parker,2007,294,Comedy|Drama,0.1
+0,Nothing to Lose,Chelsie Wylie,,Lindgren-Lehner,2001,220,Action|Adventure|Comedy|Crime,0.1
+2,Curse of the Pink Panther,Kacie Ainscow,Lorna Eakle,"Towne, Dicki and Bogan",2007,92,Comedy|Crime|Mystery,0.1
+2,Satan Never Sleeps,Lucias Lamacraft,,"Bogisich, Hackett and Bergstrom",1995,370,Drama|War,0.1
+3,Wuthering Heights,Lyndsay Cosgriff,,"Mertz, Durgan and Welch",1994,781,Drama,0.1
+1,'night Mother,Thibaud Brian,Caty Smidmor,Harris-O'Connell,2011,458,Drama,0.1
+2,Off Beat,Delmar Showell,,"Spencer, Thompson and McGlynn",2012,568,Drama|Romance,0.1
+3,Zapped Again!,Amalee Yakubovics,,Stark Inc,1987,596,Comedy|Sci-Fi,0.1
+3,Blackbird,Bev Matasov,Cristin Eversley,"Koelpin, Bradtke and Lebsack",2005,907,Animation,0.1
+1,Halloween is Grinch Night,Ynez Treven,Melonie Handslip,Kovacek-Schuster,2000,778,Animation|Children,0.1
+2,Juha,Jody Crosscombe,,Dickens Group,1953,280,Comedy|Drama|Romance,0.1
+3,"Son of the Sheik, The",Kevon Allsupp,Anna List,"MacGyver, Welch and Considine",2011,366,Adventure|Comedy|Romance,0.1
+0,American Ninja 3: Blood Hunt,Hall Bootell,,Friesen and Sons,2006,724,Action|Adventure,0.1
+1,Tigerland,Kristal Straughan,,Schneider-Konopelski,1995,141,Drama,0.1
+0,"Year of the Wolf, The (Suden vuosi)",Reggi Duggon,Ginnie McKeurtan,Romaguera and Sons,1997,791,Drama|Romance,0.1
+0,Holocaust,Arin Bonhill,Erik Betham,Funk-Langworth,2010,97,Drama|Romance|War,0.1
+2,Undisputed II: Last Man Standing,Tonie Lillicrop,,Reichert-Krajcik,2008,591,Action|Crime|Drama,0.1
+2,Torpedo Run,Hieronymus Twitchings,,Cremin-O'Connell,2007,209,Drama|War,0.1
+3,Imagine,Piotr Duly,,Ziemann-Hudson,1997,696,Drama,0.1
+2,Macon County Line,Debora Yakubovics,Regan Lauga,Brekke-Harvey,2009,626,Action|Drama,0.1
+2,"Nibelungen: Kriemhild's Revenge, Die (Die Nibelungen: Kriemhilds Rache)",Christos Braunstein,Teodoor McKew,Cassin-D'Amore,2006,930,Adventure|Drama|Fantasy,0.1
+3,Seven Brides for Seven Brothers,Conny Spaxman,Bucky Langstone,"Jacobs, Stehr and Hills",2012,782,Comedy|Musical|Romance|Western,0.1
+2,Three Brothers (Tre fratelli),Murvyn Philbrick,,"Zulauf, Hackett and Schuppe",2012,643,Drama,0.1
+3,4:44 Last Day on Earth,Giovanni Furmagier,Kenn Major,Pacocha-Steuber,1993,107,Drama|Fantasy|Sci-Fi,0.1
+1,"Hole, The (Dong)",Magdalene Sollime,Alla Tapson,Kirlin Group,1991,120,Drama|Musical,0.1
+2,"Age of Innocence, The",Penni Martusov,,Reynolds-Ledner,1992,638,Drama|Romance,0.1
+3,"Tree of Life, The",Archibold Mc Curlye,,Schulist-Schmeler,2007,649,Drama,0.1
+2,Chasing Amy,Sylas Ridsdell,,Keebler-Wunsch,1992,629,Comedy|Drama|Romance,0.1
+3,Monday,Patrizia Faivre,,Nolan LLC,1988,924,Action|Comedy|Crime|Fantasy|Thriller,0.1
+1,Country Life,Tamqrah Hallewell,,Yundt-D'Amore,1990,523,Drama|Romance,0.1
+0,Cottage Country,Elie MacPeake,Stillman Kertess,Ryan-Wintheiser,1993,830,Action|Comedy|Crime,0.1
+2,Let's Go to Prison,Filmer Ritmeier,Caro Gullberg,Marquardt Inc,2002,605,Comedy,0.1
+1,Die Hard: With a Vengeance,Alene O'Connor,Rodrique Marklow,"Oberbrunner, Altenwerth and Auer",2006,239,Action|Crime|Thriller,0.1
+2,"Pursuit of Happiness, The",Josiah Petto,Joleen Lowensohn,Franecki-Bailey,1995,76,Drama,0.1
+1,"Turandot Project, The",Taffy MacNeil,Jacinthe MacParland,"Kris, Gulgowski and Labadie",2006,500,Documentary,0.1
+1,Amityville 3-D,Warde Brocklesby,Raff Kilmartin,"Feil, Batz and Kihn",1994,998,Horror,0.1
+3,Zero Degrees of Separation,Bertie Godin,,Treutel LLC,2011,995,Documentary,0.1
+3,Poison Ivy,Gerik Fitzpayn,,Heller LLC,1995,59,Drama|Thriller,0.1
+0,13/13/13,Calla Munton,,Thiel-Schuppe,1997,162,Horror,0.1
+0,The Fox and the Hound 2,Felicdad Crevy,,Dooley Inc,2004,788,Adventure|Animation|Children|Comedy,0.1
+0,"Ah, Wilderness!",Daven Kopke,,Auer-Marks,2008,635,Comedy|Drama,0.1
+1,"Devil's Backbone, The (Espinazo del diablo, El)",Udell Witchalls,Remy Rubanenko,Roob-Ratke,2009,715,Drama|Fantasy|Horror|Thriller|War,0.1
+0,Dead Men Tell,Juieta Racher,Gregorius Paddie,McCullough Group,1993,249,Comedy|Crime|Drama|Mystery|Thriller,0.1
+3,Jesse Stone: Night Passage,Mikey Miquelet,,Kovacek-Jones,2006,663,Crime|Drama|Mystery,0.1
+0,Medea,Bengt Domengue,Giles Giraths,Ziemann Group,2006,94,Drama,0.1
+1,Phat Beach,Mal Huard,,Christiansen-Schoen,2005,678,Comedy,0.1
+0,Desire: The Vampire,Clarisse Clemencet,Charo Thirwell,Kautzer-Blick,2004,661,Crime|Horror|Thriller,0.1
+0,I Married a Monster from Outer Space,Edwin Labusquiere,Jennine Linster,Balistreri-Hyatt,2009,308,Horror|Sci-Fi,0.1
+2,Punk in London,Boote Drewell,Nehemiah Lovegrove,"Rath, Farrell and Crona",2006,546,Documentary|Musical,0.1
+2,The Hanoi Hilton,Alexa Stormont,,Lakin Inc,1999,438,Drama|War,0.1
+3,Me and Earl and the Dying Girl,Grata Rennard,Lauren Culshaw,"Wuckert, Quigley and Pfannerstill",1966,419,Drama,0.1
+1,"Brave, The",Ronna Hutchins,Emmi Neagle,Kuphal-Waelchi,2002,998,Drama,0.1
+0,"Lift, De",Adelice Hoonahan,,"MacGyver, Daniel and Franecki",1997,545,Horror|Thriller,0.1
+3,Hell's Highway: The True Story of Highway Safety Films,Charles Keenlyside,,"Bergstrom, Rohan and Zemlak",2005,726,Documentary,0.1
+0,September,Marice Lines,Sandra Franca,"Orn, Gusikowski and Raynor",1992,324,Drama,0.1
+3,Which Way Is the Front Line From Here?  The Life and Time of Tim Hetherington,Arie Rothman,,Waters-Jenkins,1995,427,Documentary,0.1
+1,When Ladies Meet,Dannye Simm,,Rogahn-Cronin,1996,508,Comedy|Drama|Romance,0.1
+0,Judgment at Nuremberg,Darrel McGarel,Lora Lazare,"Lesch, Konopelski and Ruecker",2005,353,Drama,0.1
+1,"Hunchback of Notre Dame, The",Genia Clare,,Kihn and Sons,1998,257,Animation|Children|Drama|Musical|Romance,0.1
+0,Punk's Dead: SLC Punk! 2,Arlinda Axtonne,,"Johns, Christiansen and Runolfsdottir",1999,493,Comedy,0.1
+1,Ju-on: White Ghost,Clovis Ruoss,,Weissnat-Green,2013,77,Horror,0.1
+1,"Manta, Manta",Aura Greave,,"Keeling, Treutel and Yost",2006,923,Comedy,0.1
+1,Police State,Dinnie Lyon,,"Streich, Carroll and Shields",2010,187,Drama,0.1
+0,Tarzan and His Mate,Hashim Fedder,,Russel Inc,1999,418,Action|Adventure,0.1
+1,Upstairs and Downstairs,Raoul Crummie,Sosanna Redgrove,Windler-Kertzmann,2005,230,Comedy,0.1
+2,A Gun for Jennifer,Codie Kennewell,,"Davis, Koch and Langworth",1998,411,Crime|Drama|Thriller,0.1
+2,Days of Glory,Jacklyn Slate,Aurie Otton,Jones-Wiegand,2011,201,Drama|Romance|War,0.1
+1,Blood Creek (a.k.a. Town Creek),Rodrigo Papaminas,Drusi Stains,"Legros, O'Conner and Paucek",2008,234,Horror,0.1
+1,"Big Steal, The",Blake Puckett,Albina Langhorn,"Corwin, Ward and Denesik",2000,61,Adventure|Drama|Film-Noir|Thriller,0.1
+2,Let's Be Cops,Ramsay Shepley,,Braun-Kessler,2008,453,Comedy|Crime,0.1
+3,Downstairs,Kin Darlaston,,Okuneva-Bogisich,1994,504,Drama,0.1
+3,Annabelle,Yorgo Parmer,,Lehner-Ruecker,2012,215,Horror,0.1
+0,Chico & Rita,Atalanta Evins,Gregorius Sandcroft,McCullough-Kovacek,2001,114,Animation|Musical|Romance,0.1
+0,Negative Happy Chainsaw Edge (Negatibu happî chênsô ejji),Leisha Chatainier,,Bosco Group,1986,945,Comedy|Horror,0.1
+0,Time in the Minors,Alene Snap,,"Collier, Nienow and Durgan",2004,764,(no genres listed),0.1
+1,Under Siege,Janenna Genders,,Spinka-Greenholt,2008,95,Action|Drama|Thriller,0.1
+0,Dennis the Menace,Kimble Laux,,Runte LLC,1995,141,Comedy,0.1
+2,Crazy Thunder Road,Costa Deabill,,Sipes Group,2012,467,Action|Sci-Fi,0.1
+1,"Longshots, The",Wainwright Schulke,,"Willms, Nader and Ryan",2011,658,Drama,0.1
+1,Clockwise,Goober Secombe,,McKenzie-Bernier,1993,606,Comedy,0.1
+2,Odd Thomas,Ferdinanda Giacubbo,Brianna Webermann,"Stark, Bauch and Okuneva",2008,886,Drama|Fantasy|Mystery|Thriller,0.1
+0,"Executioner, The",Carlota MacNeilly,,"Walker, Wisozk and Hirthe",2000,53,Drama|Thriller,0.1
+1,Noroi: The Curse ,Dan Leyninye,,Wisoky and Sons,2009,443,Horror,0.1
+0,Body of Evidence,Chadd Burborough,,Murphy-Jacobs,1985,521,Drama|Thriller,0.1
+3,Täällä Pohjantähden alla II ,Bessy Girone,,Murphy Group,2001,167,Drama|War,0.1
+3,Plan 9 from Outer Space,Gennie Luxford,Kirby Struijs,Kiehn LLC,2007,304,Horror|Sci-Fi,0.1
+2,Starsky & Hutch,Dian Bruhke,,Green-Kertzmann,2000,390,Action|Comedy|Crime|Thriller,0.1
+1,"Man Who Never Was, The",Carolann Zollner,,Sipes-Doyle,1999,491,Drama|War,0.1
+0,My Sucky Teen Romance,Averyl Cawdell,,Tromp-Keeling,1994,325,Comedy,0.1
+3,Triangle (Tie saam gok),Vanna McSkin,,Thompson-Cummerata,1997,541,Action,0.1
+1,I Confess,Danny Trayton,,"Zemlak, Wolf and Stiedemann",1993,229,Thriller,0.1
+2,"Mahabharata, The",Abeu Gillicuddy,,"Walker, Rice and Ward",1984,195,Action|Drama|War,0.1
+2,The Nativity,Ariel Vasiljevic,Linn Forson,VonRueden-Keeling,1987,75,Children|Drama,0.1
+3,"Page of Madness, A (Kurutta ippêji)",Jolee Oertzen,,Lemke-Sauer,1992,845,Drama|Horror,0.1
+2,Jeremy,Stoddard Roseburgh,,Murphy-Romaguera,2006,584,Drama|Romance,0.1
+2,Unstoppable,Margareta Trelease,,Flatley and Sons,2003,495,Action|Drama|Thriller,0.1
+3,Sir Arne's Treasure,Nancy Lannen,Damian Nucciotti,Mills-Stoltenberg,2006,693,Drama,0.1
+2,Life After Tomorrow,Chiarra Forrest,Vivie Boddie,"Kuphal, Ankunding and Schneider",2009,323,Documentary,0.1
+0,Offspring ,Jinny Disbury,Carleton Collelton,Schumm Group,2002,219,Horror,0.1
+0,"Indian Runner, The",Douglas Battell,Janifer Rama,Simonis-Hammes,1983,847,Drama,0.1
+3,"Babe Ruth Story, The ",Carolann Noraway,,"Thiel, Hermann and Hahn",1988,850,Drama,0.1
+2,"Great Escape, The",Alameda Spurrett,Sonja Simoni,"Gleason, Ortiz and Will",2002,340,Action|Adventure|Drama|War,0.1
+0,Submarine X-1,Petronia Point,,Weber-Ryan,1992,612,Drama|War,0.1
+3,Sex and Zen (Rou pu Tuan zhi tou Qing bao Jian),Neilla Furzey,,Mueller-Metz,1987,68,Action|Adventure|Comedy|Fantasy,0.1
+2,71 Fragments of a Chronology of Chance (71 Fragmente einer Chronologie des Zufalls),Maurise Goodanew,Jacob Weatherhill,"Feeney, Grimes and Smitham",1999,293,Drama,0.1
+1,Two Lives (Zwei Leben),Gipsy Rice,Deeann Garbutt,"Cole, O'Connell and Runolfsdottir",2008,701,Drama|Thriller,0.1
+3,"Front, The",Lorine FitzGibbon,,Koepp-Adams,2004,122,Comedy|Drama,0.1
+0,Only the Strong,Waring Gregan,,Fisher-Schiller,1993,560,Action,0.1
+1,"Aura, The (Aura, El)",Gherardo Akred,,Bernier Inc,1985,722,Crime|Drama|Thriller,0.1
+0,Here Without Me (Inja bedoone man),Nicko Brinkler,,Dooley LLC,1997,986,Drama|Film-Noir|Mystery|Romance,0.1
+3,Felicia's Journey,Bud Landells,Phaidra Lawey,Kuhlman LLC,1964,343,Thriller,0.1
+3,Beauty #2,Jerrome Peyes,,Parisian and Sons,1984,831,Drama,0.1
+0,Impulse,Libbie Kew,,Lubowitz and Sons,2008,619,Mystery|Sci-Fi|Thriller,0.1
+2,Widows' Peak,Geri Maps,Jacqui Mirams,Deckow Group,2010,393,Drama,0.1
+1,Lucas,Malachi Oherlihy,,"Green, Crona and Moen",1993,731,Drama|Romance,0.1
+1,"Uninvited, The",Bernardine Shorland,,Carter-Klein,2008,242,Drama|Horror|Mystery|Thriller,0.1
+0,Zatoichi Goes to the Fire Festival (Zatôichi abare-himatsuri) (Zatôichi 21),Sonnie Eastment,,Kassulke-Schmeler,2008,765,Action|Drama,0.1
+1,Rage,Gardie Booty,,McGlynn-Weissnat,2003,642,Action|Crime|Thriller,0.1
+3,Crystal Fairy & the Magical Cactus and 2012,Sisile Klimkiewich,,Osinski Group,2004,216,Adventure|Comedy,0.1
+1,"Wackiest Ship in the Army, The",Stephen Ricard,,Becker Inc,2006,695,Comedy|War,0.1
+1,Ghost World,Madeleine Lingard,,Brown Inc,1992,365,Comedy|Drama,0.1
+2,Short Cuts,Burk Lumbers,Vaughan Carlesi,Strosin and Sons,1988,818,Drama,0.1
+3,Raanjhanaa,Joy Dumbreck,Tomi Guinan,Ferry Group,2012,509,Drama|Romance,0.1
+1,Little Fauss and Big Halsy,Rudyard Dealy,,"Mann, Johnston and Nader",2001,632,Drama,0.1
+0,Yuva,Tudor Rewcastle,,Barrows LLC,1987,578,Action|Adventure|Crime|Drama,0.1
+0,"Bitter Tea of General Yen, The",Joete Lathe,Allan Burridge,Friesen and Sons,2006,516,Drama|Romance|War,0.1
+0,How to Lose Friends & Alienate People,Vanna Guilaem,Edgar Crosson,Heller-Mills,2006,927,Comedy,0.1
+0,The Divine Woman,Joyan Jedrzejewsky,,Ziemann-Frami,1998,967,(no genres listed),0.1
+0,"Best and the Brightest, The",Cate Standbrooke,,Jacobi Group,2008,541,Comedy,0.1
+2,"Battle of Shaker Heights, The",Douglass Bisson,,Abshire Inc,2005,167,Comedy|Drama|Romance,0.1
+0,Lulu on the Bridge,Pooh Cowlin,Guglielmo Morat,"Grady, Langworth and Funk",2012,680,Drama|Mystery|Romance,0.1
+0,Stonewall Uprising,Ofilia Caughan,Jackie Hartzog,Reichel-Reichel,1989,181,Documentary,0.1
+2,Our Song,Carin Spehr,Zach Quantrill,Ritchie-Bogisich,2009,344,Drama,0.1
+3,"Magic Sword, The",Paola Kelk,,"Berge, Davis and Jast",1992,305,Drama|Fantasy,0.1
+3,Olympian Holiday (Loma) ,Felicia Kellitt,,Osinski LLC,2012,246,Comedy|Romance,0.1
+2,"New Age, The",Odelia Charnock,,"Rogahn, Carter and Wolf",2008,879,Drama,0.1
+2,"Education of Mohammad Hussein, The",Aymer Schimpke,,Glover Inc,1999,381,Documentary,0.1
+1,Pontiac Moon,Halette Kennaway,,Gaylord Group,2007,642,Drama,0.1
+1,"Very Potter Sequel, A",Adham Philip,,"Schamberger, Ledner and Cole",2005,264,Comedy|Musical,0.1
+2,Azumi 2: Death or Love,Hattie Draco,,Roberts-Koelpin,2001,479,Action|Adventure,0.1
+3,Detachment,Michell Bowes,Ikey Woodhams,Mosciski-Bahringer,1999,746,Drama,0.1
+1,V for Vendetta,Minerva Towll,Jenica Lodden,Reichel-Cassin,2004,95,Action|Sci-Fi|Thriller|IMAX,0.1
+0,Familia,Marj Scroyton,,"Hamill, Casper and Medhurst",1993,994,Comedy,0.1
+1,Tokyo Decadence (Topâzu),Celene Dyer,Prisca Brundell,Rogahn LLC,2004,472,Drama,0.1
+2,Street Mobster (a.k.a. Modern Yakuza: Outlaw Killer) (Gendai yakuza: hito-kiri yota),Waiter Glacken,Sherman Guyver,"Williamson, Gleichner and Langworth",1994,837,Action|Crime,0.1
+3,Commandments,Lexy Hazley,Meta Bohje,D'Amore-Beahan,2009,993,Romance,0.1
+1,Fiddle-de-dee,Nickola Hun,,Reichert LLC,1993,715,Animation|Musical,0.1
+2,Random Hearts,Elysia Segeswoeth,,Parisian-Connelly,1999,846,Drama|Romance,0.1
+0,Babes in Toyland,Gerrilee Casari,,Metz-Littel,1997,589,Children|Fantasy|Musical,0.1
+3,Burn After Reading,Jammie Ankrett,,Lindgren-Haag,2005,889,Comedy|Crime|Drama,0.1
+1,"Inspector General, The",Cleo McSperron,,"Thiel, Wunsch and Greenfelder",2012,755,Musical,0.1
+0,Goal! III,Lesya Gallard,,Bode Group,1997,747,Drama|Romance,0.1
+3,Westworld,Craggy Collet,Monika Kencott,Adams-Hermann,1999,723,Action|Sci-Fi|Thriller|Western,0.1
+1,"Die, Mommie, Die",Ronnica Gooderridge,,"Satterfield, Ebert and Krajcik",2013,767,Comedy,0.1
+2,Demon Lover Diary,Daphne Brownsett,Ingaberg Colleran,Graham LLC,1993,978,Documentary,0.1
+2,Warlock,Stephanie Plowes,,Bins-Oberbrunner,1992,821,Romance|Western,0.1
+0,Autumn Sonata (Höstsonaten),Gabbey Bamborough,Karena Golson,Harvey and Sons,1992,409,Drama,0.1
+0,Ice Men,Elisabet Margrie,Karisa Benediktovich,Konopelski Group,2011,751,Drama,0.1
+3,Ouch (Aïe),Janenna Bernuzzi,Philippine Back,Murphy LLC,1997,348,Comedy,0.1
+0,Exit Humanity,Caprice Greg,,"Connelly, Lakin and Zieme",2007,876,Drama|Horror,0.1
+1,"Three Musketeers, The",Llywellyn Waplinton,,Luettgen-Kunze,2006,535,Action|Adventure,0.1
+2,Diving In,Ada Amott,,"Murazik, Reinger and Dach",1995,520,Comedy|Drama,0.1
+3,Growth,Luci Fenn,Eldridge Sandal,Wuckert Group,1997,874,Sci-Fi|Thriller,0.1
+2,Mother and Son (Mat i syn),Silvio Ion,Shelley Whelpdale,Parisian-Herman,2012,449,Drama,0.1
+0,"Selfish Giant, The",Irene Wombwell,,"Ratke, Mueller and Will",2012,198,Drama,0.1
+2,Don't Stop Believin': Everyman's Journey,Karleen Titchener,,"Herman, Morissette and Hahn",1981,964,Documentary,0.1
+1,Blood Work,Nickolaus Farahar,,Schumm-Rice,2005,886,Crime|Drama|Mystery|Thriller,0.1
+2,1984,Cello Jimes,Vernen Wilks,Kreiger Inc,2008,76,Drama|Sci-Fi,0.1
+0,This Is 40,Ulrica Tassel,,Collier LLC,1993,190,Drama,0.1
+3,"Swarm, The",Brittan Dengate,,Brakus-Durgan,1998,312,Action|Horror|Sci-Fi,0.1
+1,"Queen and I, The (Drottningen och jag)",Leonanie Give,,Koepp-Greenfelder,1992,696,Documentary,0.1
+1,"Hunchback, The",Sarah Reveley,Aube Gallety,"Barrows, Little and Terry",2005,806,Drama,0.1
+2,Diary of a Nymphomaniac (Diario de una Ninfómana),Ebony Daid,Timoteo Regnard,Altenwerth Inc,2005,553,Drama,0.1
+1,Widows' Peak,Zebedee Fellon,Valma Ditts,Auer-Doyle,2004,464,Drama,0.1
+0,The Squeeze,Raddy Iacivelli,Loella Hassan,Konopelski-Beatty,2011,895,Action|Comedy|Crime|Romance|Thriller,0.1
+0,"Monitors, The",Krysta Shropshire,,Hammes Group,2007,881,Comedy|Sci-Fi,0.1
+0,"Misfits, The",Rafaellle Downage,Lora Bellino,Dickinson Inc,2009,580,Comedy|Drama|Romance|Western,0.1
+2,King Kong Lives,Emeline Borgnol,,Ernser-Hilll,1987,203,Adventure|Sci-Fi,0.1
+0,Shoah,Brantley Howland,Sheena Cleevely,"Mueller, Williamson and Sporer",2005,924,Documentary|War,0.1
+2,Sangre de mi sangre (Padre Nuestro),Joyann Vanetti,,Wiza-Mitchell,2008,896,Drama|Thriller,0.1
+1,Whisky,Karl Hanrahan,,"Wilkinson, Reichel and Mosciski",1993,736,Comedy|Drama,0.1
+1,"Postman, The (Postino, Il)",Yolande Greatbanks,Darice Milton-White,Schuppe Inc,2002,635,Comedy|Drama|Romance,0.1
+0,Lost Boys of Sudan,Sunny Beardwood,Terri Birtle,Gibson-Keeling,2010,120,Documentary,0.1
+2,Violet Tendencies,Ninetta Fullalove,,Weissnat LLC,2007,998,Comedy|Drama|Romance,0.1
+2,Johnny Express,Aurelea Shovelton,,Orn-Wilderman,1998,670,Animation|Comedy|Sci-Fi,0.1
+2,Naan Kadavul,Isiahi Manklow,Melisse Fewlass,"Hauck, Doyle and Koss",1999,482,Action|Drama|Mystery,0.1
+1,Two-Way Stretch,Florencia Stanyon,,"Rath, Kovacek and Murazik",2011,399,Comedy|Crime,0.1
+2,Immortal Sergeant,Guthry Mechan,,"Lehner, Gutmann and Maggio",2006,588,Drama|War,0.1
+3,With Byrd at the South Pole,Derrik Yarnell,,Harber-Mosciski,1984,804,Documentary,0.1
+2,They All Laughed,Filippa O'Shesnan,Rancell Riquet,"Schuster, Boehm and Rice",2006,203,Comedy,0.1
+3,Confidentially Yours (Vivement dimanche!),Bryn Seabourne,,"Bartell, Moore and Hintz",2003,425,Comedy|Crime|Mystery|Thriller,0.1
+3,The Big One: The Great Los Angeles Earthquake,Hiram Bemlott,Clarine Fairley,Casper-Mayert,1993,586,Drama,0.1
+0,"Purple Rose of Cairo, The",Hilliard De Witt,Dickie Birdsey,Hudson-Bauch,2004,765,Comedy|Drama|Fantasy|Romance,0.1
+1,The Woodcarver,Danielle Robbel,,Turner Inc,1988,434,Drama,0.1
+2,Caligula,Joela Slarke,Shelley Ingledew,"Kihn, Morar and Ryan",1991,124,Drama,0.1
+0,Rulers of the City,Lissy Brosius,Rubetta Tune,Ernser and Sons,2012,236,Action|Comedy|Crime,0.1
+2,Zulu,Vickie Mullally,,Pfeffer Inc,2004,510,Action|Drama|War,0.1
+1,"Man Who Could Work Miracles, The",Sergei Van Hove,Marcille Renwick,"Botsford, Torphy and Schimmel",2007,646,Comedy|Fantasy,0.1
+1,Oxford Blues,Denys Hamblin,,Weimann Inc,1984,829,Comedy|Drama,0.1
+3,"Quest, The",Pierette Coldwell,,"Schiller, Schulist and Hudson",2005,694,Adventure|Children|Drama,0.1
+0,"Heirloom, The (Zhai Ban)",Ev Pullinger,Shanna Gustus,Doyle Group,2012,846,Drama|Horror,0.1
+0,"Cat and the Canary, The",Quintilla Scollick,Robert Tesauro,Lowe LLC,1988,815,Horror|Mystery,0.1
+0,Fulltime Killer (Chuen jik sat sau),Gertruda Coppen,,Grant LLC,2011,447,Action|Thriller,0.1
+0,"King Is Alive, The",Tomas Belloch,,Wiegand-Corkery,2002,85,Drama,0.1
+2,"Grocer's Son, The (Fils de l'épicier, Le)",Linoel Brayson,,Kohler-Dooley,2007,585,Drama|Romance,0.1
+3,Redbelt,Zared Pridgeon,,Boyer LLC,2010,76,Action|Drama,0.1
+2,All of Me,Vail Pilfold,,Moen-Bechtelar,2006,199,Documentary,0.1
+1,King Ralph,Davie Scimoni,,Kirlin and Sons,2003,420,Comedy,0.1
+0,MGS: Philanthropy,Junie Summersby,Trish Lyes,"Rowe, Brown and Abshire",1987,129,Action|Adventure|Sci-Fi|War,0.1
+2,Michael,Ludvig Gerger,,Nolan-Beatty,2008,99,Drama|Thriller,0.1
+2,Shameless (Maskeblomstfamilien ),Cassie Blachford,Vale Howgego,Dicki-Heaney,1996,759,Drama,0.1
+0,Hail the Conquering Hero,Rowe Scoggan,,"Klocko, Hand and Rice",1987,459,Comedy,0.1
+0,Loft,Barton Crannage,Dagny Smalls,Rice-Yost,2011,513,Comedy|Thriller,0.1
+2,"Black Windmill, The",Dennet Perin,,"Thompson, Schaden and Gorczany",2010,612,Crime|Drama,0.1
+0,Proof of Life,Jasen Cicchitello,,Rempel-Lesch,2002,331,Drama,0.1
+3,Bikini Summer,Justinn Murrock,,"Mante, Thiel and Hahn",1995,588,Comedy,0.1
+2,Extremely Loud and Incredibly Close,Trescha Kulvear,,Emmerich Inc,2010,391,Drama,0.1
+2,"Hitch-Hiker, The",Rhianon Deave,,Yundt-Schmeler,2006,195,Drama|Film-Noir,0.1
+1,Hedgehog in the Fog,Lexine Matteini,,Considine and Sons,2012,473,Animation,0.1
+0,"Erased (Expatriate, The)",Abbot Smallwood,Monroe Brechin,McCullough-Champlin,2012,595,Action|Thriller,0.1
+1,Pola X,Emmet Doreward,Scarlet Atwill,Runolfsdottir Group,1996,930,Drama|Romance,0.1
+1,Vegucated,Peg Henzer,Brander Larham,MacGyver-O'Connell,2012,372,Comedy|Documentary,0.1
+0,Sons of Katie Elder,Mindy Justis,Orly Crayton,"Greenfelder, Hauck and Hills",1997,321,Western,0.1
+3,Logan's War: Bound by Honor,Annnora Justham,Manfred Mildenhall,Cartwright-Wintheiser,1999,991,Action|Drama|Thriller,0.1
+2,Daughters of Darkness (Les lèvres rouges),Abeu Handrek,,"Koepp, Casper and Pouros",2006,801,Horror,0.1
+1,"Best Man, The (Testimone dello sposo, Il)",Frannie Bachelar,,Treutel-Kshlerin,1987,666,Comedy|Drama|Romance,0.1
+3,"Speed Of Thought, The",Finley Avramovsky,,Hilpert Group,2007,359,Sci-Fi|Thriller,0.1
+0,Double Confession,Margette Widdowson,,"Gibson, Farrell and Bogisich",2008,773,Crime|Drama,0.1
+2,"Invisible War, The",Ali Bariball,Delano Deeman,Murray-Kshlerin,1986,312,Crime|Documentary|Drama|War,0.1
+1,Funny About Love,Aldis Pedican,Tedra Sallarie,"Bartoletti, Cremin and Rath",1992,937,Comedy|Romance,0.1
+2,Prick Up Your Ears,Tabbi MacCombe,Alica Hucknall,"Kemmer, Kautzer and Boyle",1992,743,Comedy|Drama,0.1
+1,Troubled Water (DeUsynlige),Kamilah Denis,,Orn LLC,1999,214,Drama|Thriller,0.1
+3,"Shadow Riders, The",Alfi Sawden,,"Gibson, Larkin and Kautzer",2006,623,Romance|Western,0.1
+2,The Wonders,Marinna MacCaghan,,"Bailey, Thompson and Stamm",2000,295,Drama,0.1
+0,Goodbye Lover,Arlin Stowell,,Beer Inc,2004,126,Comedy|Crime|Thriller,0.1
+2,Hecho en México,Hal Paiton,,Nader Group,2005,902,Documentary|Musical,0.1
+2,"Education, An",Carissa Burlingham,,Kilback Group,2009,562,Drama|Romance,0.1
+1,Children (Börn),Raimund Kerridge,Gilberto Hanssmann,"Dickens, DuBuque and Mosciski",1988,137,Drama,0.1
+3,Deconstructing Harry,Austen Caulfield,Rozanne Pettit,"Leannon, Rau and Bailey",2005,539,Comedy|Drama,0.1
+0,Telstar: The Joe Meek Story,Loleta Farquar,Shelli Glazebrook,Cummerata-Beahan,2012,763,Comedy|Drama,0.1
+2,Fools' Parade,Boothe Juares,,"Mayert, Flatley and Prosacco",1989,858,Comedy|Drama|Thriller,0.1
+1,Middle of Nowhere,Eolanda Carrell,Alexis Drinkwater,Rath and Sons,1986,402,Comedy|Drama,0.1
+3,Family Way,Codie Dorricott,,"Hegmann, Sawayn and Spencer",2003,337,Comedy|Romance,0.1
+0,"Descendants, The",Millisent Penright,,"Hyatt, Murphy and Wisozk",2002,476,Comedy|Drama,0.1
+2,"Englishman Who Went Up a Hill But Came Down a Mountain, The",Tyne Roussell,,"Schulist, Greenfelder and Yost",1986,960,Comedy|Romance,0.1
+1,"Slumber Party Massacre, The",Elene De Bernardis,,"Swift, Hahn and Oberbrunner",1998,931,Horror,0.1
+3,Hawaii,Antonie Lissemore,,Gibson LLC,2007,537,Romance,0.1
+0,"Story of My Life, The (Mensonges et trahisons et plus si affinités...)",Carlin Bleier,Prent Reilly,Schumm-Schmidt,2005,104,Comedy|Romance,0.1
+1,Waco: A New Revelation,Erl Petts,,Padberg-Kautzer,2003,691,Documentary,0.1
+0,Bye Bye Brazil (Bye Bye Brasil),Nikolas Waller,,Douglas-Simonis,1985,290,Drama,0.1
+1,I Will Fight No More Forever,Janna Izard,Sal Bonicelli,"Cruickshank, Bergnaum and Monahan",2005,634,Action|Drama|War|Western,0.1
+1,"Blood Relatives (Liens de sang, Les)",Ddene Abelson,Kerby Coyte,"Huels, Schuppe and Rutherford",2009,176,Crime|Drama|Mystery|Thriller,0.1
+1,Without Pity,Althea Maynard,,Kuhic-Steuber,2000,644,Crime|Drama,0.1
+3,"Road to El Dorado, The",Clea Ogilvie,Boot Emmanueli,Kling-Cruickshank,1999,465,Animation|Children,0.1
+3,Rooster's Breakfast (Petelinji zajtrk),Pieter Kyncl,,Franecki-Hoppe,1998,453,Drama,0.1
+1,"Task, The",Kaile Blackaby,Michaela Conford,Littel-Trantow,1999,92,Horror,0.1
+0,Headhunters (Hodejegerne),Amil Finby,,"Beahan, Kunze and Rolfson",1999,327,Action|Crime|Thriller,0.1
+0,Säg att du älskar mig,Mureil Sweeney,Felita Giddins,VonRueden Group,1995,607,Drama,0.1
+2,Murder on Monday,Abran Curtoys,,"Treutel, Bins and Schaden",2008,365,Crime|Drama|Mystery,0.1
+0,Three Resurrected Drunkards (Kaette kita yopparai),Obadias Kincaid,,Rowe LLC,2011,282,Comedy,0.1
+3,Samaritan Zatoichi (Zatôichi kenka-daiko) (Zatôichi 19),Timi Pavlishchev,,McDermott Group,2005,398,Action|Adventure|Drama,0.1
+3,Brighton Beach Memoirs,Florencia Itzhayek,,Roberts Inc,1986,416,Comedy,0.1
+3,Starred Up,Orlando Janning,,Waelchi-Carter,2009,308,Drama,0.1
+0,Amore (L'Amore),Marylinda Ticksall,,Rolfson-Kulas,2000,889,Drama,0.1
+3,Midnight in the Garden of Good and Evil,Roz Cannavan,,Hudson-Roberts,2004,984,Crime|Drama|Mystery,0.1
+2,Fallen,Florette Scapens,,Frami Group,1996,959,Crime|Drama|Fantasy|Thriller,0.1
+0,India Song,Derry Dubose,Letitia Gallihawk,"Barton, Blanda and Kilback",2010,189,Drama|Fantasy|Romance,0.1
+3,Funny About Love,Thomasina Tilte,,Kling Group,2004,265,Comedy|Romance,0.1
+0,Barry Lyndon,Rolfe Filippyev,,Hintz and Sons,2011,833,Drama|Romance|War,0.1
+0,Mr. Warmth: The Don Rickles Project,Nettle Chipping,,"Ratke, Gerhold and O'Kon",2011,439,Documentary,0.1
+1,"Whale, The",Britt Whiscard,,Zieme Group,2005,288,Documentary,0.1
+3,"Great Flamarion, The",Joella O'Tierney,,"Bashirian, Swaniawski and Mante",1994,96,Drama|Film-Noir,0.1
+2,Mitä meistä tuli,Mina Bathowe,Abbe Duchant,O'Kon Inc,2002,512,Crime|Drama|Thriller,0.1
+3,Milky Way (Tejút),Rosemary Harflete,,"Mosciski, Medhurst and Emmerich",1994,108,(no genres listed),0.1
+3,Friends & Lovers,Dominica Kolyagin,,Hettinger-Hilll,2005,438,Comedy|Drama|Romance,0.1
+0,Son in Law,Stoddard Legat,,King-Hagenes,1994,322,Comedy|Drama|Romance,0.1
+1,Storm Over Asia (Potomok Chingis-Khana),Shannen Rooke,,Gulgowski Group,2004,358,Drama|War,0.1
+0,No End (Bez konca),Kai Shirtcliffe,,Smith-Dickinson,2001,64,Drama,0.1
+3,Grown Up Movie Star,Sukey Spare,,"Toy, Fadel and Lind",1991,99,Drama,0.1
+0,Vincent Wants to Sea (Vincent will meer),Talbot Shaxby,Sephira Le Huquet,Donnelly-Lakin,2008,477,Drama,0.1
+2,"Southern Yankee, A",Clary Acors,Merline Brightling,"Koss, Dare and Wehner",2005,456,Comedy|War|Western,0.1
+1,Zona Zamfirova,Smith Limon,Walliw Hanshaw,Spencer and Sons,1996,703,Comedy|Drama,0.1
+3,"Great Gatsby, The",Rori Braben,,"Mayer, Hackett and Collier",2007,294,Drama,0.1
+2,Kid Galahad,Liana Croster,,Hackett and Sons,2006,79,Crime|Drama|Romance,0.1
+3,No More School,Allina Warton,Abbot Budgeon,Toy-Reilly,2003,732,Comedy,0.1
+2,Balzac and the Little Chinese Seamstress (Xiao cai feng),Carroll Rutledge,Janel MacAskie,Carter-Harris,1993,928,Drama|Romance,0.1
+0,"Bandit, The (Eskiya)",Amerigo D'Onisi,,Orn Inc,2005,855,Action|Crime|Romance|Thriller,0.1
+0,Dating Games People Play,Roland Darling,,Gaylord Inc,1990,778,Comedy,0.1
+0,Genesis,Pat Jalland,,"Breitenberg, Zulauf and Simonis",1987,179,Drama|Horror,0.1
+1,Night of Dark Shadows,Chloris Regglar,,Hamill and Sons,2010,346,Drama|Horror|Mystery|Romance|Thriller,0.1
+2,Budd Boetticher: A Man Can Do That,Gerrilee Boyford,,Tremblay Group,2009,815,Documentary,0.1
+2,Splinterheads,Timothee Lambersen,,Dickinson and Sons,2008,407,Comedy,0.1
+3,Secrets & Lies,Chas Franssen,Dominique Treppas,Wiegand-Mueller,2011,852,Drama,0.1
+2,Tie Me Up! Tie Me Down! (¡Átame!),Rica Cullon,,"Dooley, Rath and Will",1997,161,Crime|Drama|Romance,0.1
+2,"Middle of the World, The (O Caminho das Nuvens)",Melba Folder,,Jenkins-Lakin,1997,533,Drama,0.1
+1,Talk Radio,Orren Cyson,Kimmi Spong,"Abernathy, Rau and Gutkowski",2012,962,Drama,0.1
+3,Cyrano de Bergerac,Sutherland Trow,,Purdy Group,1999,801,Drama|Romance,0.1
+2,Last Vegas,Ty Raimbauld,Lilias Canario,King LLC,1995,722,Comedy|Drama|Romance,0.1
+2,My Letter to George (Mesmerized),Leland Pumfrett,,Schiller LLC,1997,315,Drama,0.1
+2,You Will Be My Son (Tu seras mon fils),Carlota Pickring,Rebekkah Ladbury,Dare-Kreiger,2009,57,Drama,0.1
+2,Chicago,Trudy Petrolli,,"Pfeffer, Kozey and Bahringer",1993,131,Comedy|Crime|Drama,0.1
+0,In Your Hands,Kelila Ibbitson,,Littel-Tremblay,1999,892,Drama,0.1
+3,The Possession of Michael King,Harmony Hellyer,Mirilla Tomney,"Funk, Olson and Bradtke",2007,798,Horror,0.1
+0,Off Beat,Griswold Feather,Evanne Duffin,"Lesch, Parisian and Ortiz",2002,675,Comedy|Romance,0.1
+3,"Bells, The",Bondon Kedie,Goldarina Caron,Durgan-Tremblay,2001,352,Crime|Drama,0.1
+2,Sweet Sweetback's Baadasssss Song,Lionel Crepel,,Trantow Inc,2011,193,Crime|Drama|Thriller,0.1
+3,Valerie and Her Week of Wonders (Valerie a týden divu),Earl Margarson,Alexander Aimeric,Pfannerstill LLC,2004,695,Adventure|Drama|Fantasy,0.1
+1,Sweet Home Alabama,Pia Iacovuzzi,,Cronin and Sons,2009,77,Comedy|Romance,0.1
+1,Brunet Will Call (Brunet wieczorowa pora),Robinet Habble,Ev Charopen,Streich-Wolf,1967,760,Comedy,0.1
+2,Boy Meets Girl,Anica Aery,,Stamm LLC,1993,727,Drama,0.1
+3,"Battered Bastards of Baseball, The",Ferdinand Brunskill,,"Orn, Huels and White",2006,512,Documentary,0.1
+1,"Spy Who Loved Me, The",Brandy Durdy,,McClure Inc,1999,222,Action|Adventure|Thriller,0.1
+0,"So Normal (Normais, Os)",Ginger Chasteney,Petronille Humphery,Breitenberg-Kling,1999,96,Comedy,0.1
+1,"Good Son, The",Mac Slucock,,Becker-Walter,2006,702,Drama|Thriller,0.1
+2,"Bridge, The (Most)",Dorrie Luxen,,Harvey-Cummings,2004,502,Drama,0.1
+3,Alex Cross,Stephi Scotchmoor,,"Effertz, Reichel and Jerde",1996,130,Action|Crime|Mystery|Thriller,0.1
+1,Equilibrium,Hube Larkkem,,Schiller LLC,1992,371,Action|Sci-Fi|Thriller,0.1
+2,Zoo,Dina Gudahy,,Strosin-Wunsch,1996,713,Documentary,0.1
+1,Lupin III: First Contact (Rupan Sansei: Faasuto Kontakuto),Rhonda Grewes,,Schiller LLC,2004,339,Action|Animation|Comedy|Crime|Drama|Mystery|Romance|Thriller,0.1
+1,"Welcome, or No Trespassing",Willard Cressar,Christophorus Loughton,Lindgren LLC,2006,952,Children|Comedy,0.1
+1,What Doesn't Kill You,Paulina Pavlasek,,"Reichert, Goldner and Schiller",2011,132,Crime|Drama,0.1
+0,"Innocents, The",Hersch Lunk,Sonni Mallows,Reilly-Satterfield,2006,521,Drama|Horror|Thriller,0.1
+0,Jury Duty,Alford True,Othella Barenskie,Reilly Inc,1984,755,Comedy,0.1
+3,Two Mules for Sister Sara,Dominga Astupenas,Bennie Gronav,Armstrong-Hyatt,1999,134,Comedy|War|Western,0.1
+2,Temptress Moon (Feng Yue),Zora Hallex,,Harber and Sons,2001,128,Romance,0.1
+3,Midnight Bayou,Vivienne MacFadzean,,Friesen-Baumbach,2007,160,Drama|Mystery|Romance,0.1
+2,Unfair Competition (Concorrenza sleale),Milicent Besse,,Homenick-Feeney,2011,910,Drama|War,0.1
+0,Lupin the 3rd,Kerrie Grushin,Kaia Jenkinson,Lakin-Feil,2000,479,Action|Adventure|Comedy,0.1
+3,Snowriders,Viviana Zincke,,Hessel-Reichel,2000,532,Documentary,0.1
+3,Ploy,Asher Bundock,Florie Cleife,Hyatt LLC,1997,553,Drama,0.1
+0,In the Line of Fire,Bibi Tripean,,"Huel, Conn and Grant",2008,958,Action|Thriller,0.1
+1,"Polar Express, The",Thorpe Dickey,,"Kilback, Lang and Legros",1996,183,Adventure|Animation|Children|Fantasy|IMAX,0.1
+2,Four Sahibjade,Reagan Bellelli,,"Jaskolski, Haley and Bode",1961,456,Animation,0.1
+3,Donos de Portugal,Hendrick Poag,,Stracke-Mosciski,1994,148,Documentary,0.1
+3,Save the Last Dance,Maxy Bothen,,"Cormier, Mills and Barton",2005,977,Drama|Romance,0.1
+1,Colombiana,Cacilie Rubinovitsch,Michael Petrazzi,"Rempel, Zboncak and Borer",1993,391,Action|Adventure|Drama|Thriller,0.1
+2,The Diary of Anne Frank,Rhona Nowick,,Schultz LLC,1993,825,Drama,0.1
+0,Fanfan la Tulipe (Fan-Fan the Tulip),Benedict Moorman,,Schaefer-Jaskolski,2004,189,Action|Adventure|Comedy|Romance|War,0.1
+3,Mannequin 2: On the Move,Lemar Kears,Dana Junifer,Jaskolski Inc,1988,807,Comedy|Fantasy|Romance,0.1
+3,"Raven, The",Evelina O'Rafferty,Tristam Dudeney,Hoppe-Boyer,1991,82,Comedy|Horror,0.1
+3,"Bang, Bang, You're Dead",Britta Bartholomieu,Leonora Pentlow,Effertz-Thiel,2001,222,Drama,0.1
+3,Love at the Top,Lowe Scandwright,,Oberbrunner-Swaniawski,1998,356,Comedy|Drama,0.1
+0,Lonely Street,Erda Sibery,,Smitham Inc,1994,671,Comedy|Mystery,0.1
+0,Simple Men,Estrellita Kirley,Pippo Yushin,"Wyman, Prosacco and Morissette",1998,611,Comedy|Drama,0.1
+0,Bye Bye Monkey (Ciao maschio),Jessa Tanman,,Padberg-Schuster,1989,322,Comedy|Drama|Fantasy,0.1
+1,Ego,Ogdan Reye,Mathias Perrycost,Baumbach Inc,2011,85,Drama,0.1
+3,"Cool World, The",Chelsie Peart,Gerri McNirlan,Kassulke-Parisian,1993,200,Crime|Drama,0.1
+1,"Good Son, The",Teri Pina,,"Grimes, Reynolds and Jast",2013,470,Drama|Thriller,0.1
+0,Paan Singh Tomar,Hinda Wolffers,Mona Arondel,Strosin-Bruen,1994,856,Crime,0.1
+0,"Reluctant Debutante, The",Constance Geleman,Kyrstin Hawkings,Mayert LLC,1983,262,Comedy|Drama,0.1
+1,Disneyland Dream,Cly Caulder,Emory Gilbody,Schimmel Group,1994,989,Documentary,0.1
+0,"Reaping, The",Karole Cleugher,,"Wilkinson, Paucek and Witting",1995,919,Horror|Thriller,0.1
+1,Legendary Weapons of China,Faythe Curnokk,,"Nolan, Hyatt and Hills",2009,922,Action|Adventure,0.1
+3,Assassination Games,Gilbertina Ramos,,"Marks, Roob and Yost",2001,295,Action|Thriller,0.1
+1,"Dark, The",Pebrook Dimitriou,Vernen Lowery,Beahan Inc,1989,132,Horror|Mystery|Thriller,0.1
+3,"Fork in the Road, A",Larisa Gubbins,Alonzo Rutherford,D'Amore-Bartell,1992,729,Comedy|Crime,0.1
+0,Splendor in the Grass,Beryl Portam,,"Hessel, Wyman and Bahringer",2011,771,Drama|Romance,0.1
+1,Creature with the Atom Brain,Eloise Epsly,Shae Bourthoumieux,Schmidt and Sons,2008,696,Crime|Horror|Sci-Fi,0.1
+1,Chill Out! (Descongélate!),Duky Charlton,,Orn and Sons,2002,133,Comedy|Drama,0.1
+2,Knights,Vyky Reek,,Blanda and Sons,1991,84,Action|Adventure|Sci-Fi,0.1
+3,"Honey Pot, The",Anallise Mcettrick,,Brekke-Corkery,2005,966,Comedy|Crime,0.1
+1,Miguel and William (Miguel y William),Lonny Bomb,,"Pfeffer, Nienow and Denesik",1994,439,Comedy|Romance,0.1
+2,Any Wednesday (Bachelor Girl Apartment),Alley Mallall,Darbee Butchers,"Waelchi, Fritsch and Kuhlman",2011,593,Comedy,0.1
+2,Saving Face,Giacomo Le Brom,,"Heathcote, Rau and Hilll",2012,273,Documentary|Drama,0.1
+3,Jack and Sarah,Zollie Hampstead,,Aufderhar-Lueilwitz,2004,759,Romance,0.1
+3,Grateful Dead,Andra Tew,,Luettgen and Sons,2010,694,Documentary,0.1
+2,"Bohème, La",Barrie Horrigan,,Kassulke-Daugherty,1990,211,Drama|Romance,0.1
+2,Road to Bali,Shelli Capener,Fran Cunnah,"Grimes, Kshlerin and Murazik",1994,243,Comedy|Musical,0.1
+2,Fortress,Yasmeen Jagson,,"Carter, Carter and Gutkowski",2011,259,Action|Sci-Fi,0.1
+2,"Tom, Dick and Harry",Shandie Presnell,,Walker-Homenick,2008,952,Comedy|Fantasy|Romance,0.1
+3,Operación Cannabis,Celesta Dawdry,,"Nicolas, Torp and Daugherty",2009,247,Action|Adventure|Comedy|Crime,0.1
+2,Johnny in the Clouds,Yancy Leatt,,"McKenzie, Friesen and Padberg",2006,969,Drama|Romance|War,0.1
+1,Angie,Jean Brunnen,Wakefield Philippard,Lehner and Sons,1997,946,Comedy|Drama|Romance,0.1
+1,"Time of the Wolf, The (Le temps du loup)",Pepito Carcas,,Koepp-Sawayn,1985,580,Drama,0.1
+2,"Jazz Singer, The",Veradis Meyrick,,"Carter, Wilkinson and Berge",1986,278,Drama|Musical|Romance,0.1
+2,End of the World,Roseanna Pigdon,,Kuhn-Monahan,2003,484,Mystery|Sci-Fi|Thriller,0.1
+2,Kill Me Again,Olenolin Calles,Lenka Knight,"Kshlerin, Schumm and Rippin",2012,512,Crime|Drama|Thriller,0.1
+2,Marius and Jeanette (Marius et Jeannette),Kelly Stokes,,Muller-Ernser,1998,174,Comedy|Drama|Romance,0.1
+1,The Mayor of Casterbridge,Bradan O'Finan,Felice Kildea,Botsford LLC,2009,818,Drama,0.1
+3,Because I Said So,Christiano Godley,,Beer-Hamill,2006,247,Comedy|Drama|Romance,0.1
+3,Bakhita,Shandy Pluvier,Taryn Sinclair,Watsica-Koss,1988,443,Drama,0.1
+2,"Return to Homs, The",Lynnett Lacroux,,Hoeger-Goldner,2004,653,Documentary,0.1
+1,Teenage,Raven Care,,Volkman LLC,2002,982,Documentary,0.1
+2,Dhoom,Ludwig Membry,Eustacia Scarrisbrick,"Langosh, Hansen and Trantow",1997,787,Action|Crime|Musical|Romance,0.1
+3,"Big Heat, The",Elianore Hinrich,Tania Lippo,"Hyatt, Sipes and Crist",2001,863,Drama|Film-Noir,0.1
+0,Boys on the Side,Bab Epinoy,Jemimah Bramley,Farrell and Sons,1986,930,Comedy|Drama,0.1
+0,Juan of the Dead (Juan de los Muertos),Hermina Ixer,,Adams-Gleichner,1997,726,Comedy|Horror,0.1
+1,"Big Picture, The (L'homme qui voulait vivre sa vie)",Nikolia Farebrother,,"Thiel, Kreiger and Kuhn",2005,70,Drama,0.1
+0,Kismet,Marion Prene,Sibby Sneesby,"Boyer, Stoltenberg and Nikolaus",1997,532,Adventure|Fantasy,0.1
+1,"Man in the Moon, The",Mariel Mattersey,Alonzo Domegan,"Goyette, Feest and Adams",2001,663,Drama|Romance,0.1
+2,Prom Queen: The Marc Hall Story,Mart Willavoys,Toma Penhallurick,"Mraz, Monahan and Farrell",2001,513,Comedy|Drama,0.1
+3,"Survivors, The",Robinette Keddey,,"Lang, Greenfelder and Braun",2004,759,Comedy,0.1
+1,Dirty Dozen: The Deadly Mission,Shauna Bilbery,,Runolfsdottir LLC,1986,251,Action|Drama|War,0.1
+2,Black Coffee,Karry Menaul,,Kovacek and Sons,1995,719,Comedy|Romance,0.1
+3,"Flowers of St. Francis (Francesco, giullare di Dio)",Germaine Holwell,,"Zulauf, Hermiston and Satterfield",2004,57,Drama,0.1
+0,"Horror Hotel (a.k.a. City of the Dead, The)",Giusto Thurnham,,"Fay, Carroll and Kshlerin",1997,651,Horror|Thriller,0.1
+3,Whatever,Issiah McCurry,Milissent Poser,Weimann LLC,2006,83,Drama,0.1
+0,I Origins,Carry Tomczynski,Janeczka Billison,"Ruecker, Hermiston and Stroman",1995,69,Drama|Sci-Fi,0.1
+1,Phaedra,Lolita Aiskrigg,,Bergstrom Group,2012,305,Drama,0.1
+1,Over the Brooklyn Bridge,Eyde Shevlan,Ramona Levesley,"Smitham, Waelchi and Cummings",1995,279,Comedy,0.1
+3,Ping Pong,Mira Burney,Otho Phillis,Hilpert LLC,2002,964,Documentary,0.1
+3,"Amor brujo, El (Love Bewitched, A)",Monti Dibble,,Carter-Berge,2004,345,Drama|Musical,0.1
+2,Eat Sleep Die (Äta sova dö),Almeta Spight,Arleen Balnave,Veum Group,2006,983,Drama,0.1
+1,Perfect Blue,Gabrielle Olennikov,,Schinner Group,2013,154,Animation|Horror|Mystery|Thriller,0.1
+3,Cthulhu,Blakeley Fick,Ichabod Curwood,"Muller, Johns and Schultz",2008,879,Drama|Thriller,0.1
+0,If You Could See What I Hear,Corenda Matusson,,Johns Inc,1999,865,Comedy|Drama|Romance,0.1
+3,Hoffman,Gisella Ransbury,Maighdiln Bodega,Torphy-Runolfsdottir,1997,596,Comedy|Drama|Romance,0.1
+2,Leave It to Beaver,Gretchen Fullun,,Hermiston LLC,2006,790,Comedy,0.1
+2,Empire of Silver (Bai yin di guo),Jeanne Schaffler,,Crona and Sons,2001,915,Drama|Romance,0.1
+0,Mao's Last Dancer,Yoshiko Nudde,,"Bernier, Mosciski and Walsh",1994,983,Drama,0.1
+1,October Country,Nonnah Counihan,,Osinski Group,2008,909,Documentary,0.1
+1,White Men Can't Jump,Chrisy Pearson,,Kozey and Sons,2009,545,Comedy|Drama,0.1
+2,The Big One: The Great Los Angeles Earthquake,Pansie Birtonshaw,,Luettgen LLC,2000,574,Drama,0.1
+2,"Browning Version, The",Noe Posselwhite,Essa Slowley,"Green, Tillman and Corwin",1996,640,Drama,0.1
+3,Asphalt,Raffarty Kintish,,Greenfelder and Sons,2008,986,Drama,0.1
+3,Untamed Heart,Lyn Goncaves,Karylin Pipet,Blick LLC,1995,375,Drama|Romance,0.1
+2,Gone in 60 Seconds,Barry MacScherie,,Bartell-Moore,2000,283,Action|Crime|Drama,0.1
+3,Dream Home (Wai dor lei ah yut ho),Daniel Dulson,Sal Spilling,Dicki Inc,2000,859,Horror,0.1
+1,Centennial,Larisa Lorking,,Runte-Treutel,1993,299,Action|Adventure|Drama|Romance|Western,0.1
+2,Adventure in Baltimore,Ram Gerauld,,"Kreiger, Steuber and Hilll",1994,352,Comedy|Drama,0.1
+0,Slumber Party Massacre II,Garrek Stollwerk,,Kozey Group,1992,940,Horror,0.1
+3,"Hunted, The",Helen Dicken,Rory Tatchell,Gaylord-Roberts,2000,461,Action|Drama|Thriller,0.1
+3,Naked in New York,Ofilia Matsell,,Marks and Sons,2006,53,Comedy|Romance,0.1
+0,Across the Tracks,Marj Rzehor,,"Waelchi, Jacobson and Mayert",2006,691,Drama,0.1
+0,Eve of Destruction,Doralyn Fumagallo,Xerxes Landell,"Littel, Swift and Reichert",2005,668,Action|Sci-Fi|Thriller,0.1
+0,Master of the Flying Guillotine (Du bi quan wang da po xue di zi),Vittorio Defau,,"Christiansen, Halvorson and Willms",1995,179,Action,0.1
+1,Babette's Feast (Babettes gæstebud),Liz Houlaghan,,Kunde LLC,2009,867,Drama,0.1
+0,"Greatest Story Ever Told, The",Johnath Fransman,,Hirthe and Sons,2000,142,Drama,0.1
+3,"Eternal Return, The (L'éternel retour)",Flora Shenfisch,,"Kub, Rice and Konopelski",1996,101,Drama|Romance,0.1
+1,Polish Wedding,Hamlin Cocher,,Watsica-Ruecker,2005,152,Comedy,0.1
+1,I'm with Lucy,George Alenichev,Auroora Fayers,"Stark, Hudson and Schulist",1993,847,Comedy|Romance,0.1
+2,Elvis and Me,Krystalle Eliesco,,Kiehn LLC,2003,122,Drama|Romance,0.1
+1,BURN-E,Bearnard Powley,,Sauer Inc,2008,430,Adventure|Animation|Children|Sci-Fi,0.1
+0,Jinxed!,Kincaid Chritchley,,Gottlieb-Leuschke,1991,1000,Comedy,0.1
+1,Went to Coney Island on a Mission From God... Be Back by Five,Rowe Harkes,Dalton Sully,Hauck-Gorczany,2012,258,Drama,0.1
+2,"Murder of Fred Hampton, The",Britte Walworth,Cicely Sneddon,"Volkman, Will and Mayer",2012,479,Crime|Documentary,0.1
+2,Lotta på Bråkmakargatan,Corry Cressingham,Franchot Pancost,"Hand, Graham and Orn",2002,317,Children,0.1
+3,Body and Soul,Melly Gritton,,"Weissnat, Harber and Kulas",2007,858,Drama|Film-Noir,0.1
+3,Judy Berlin,Vladimir Sharrard,,Braun Group,2009,496,Drama,0.1
+3,America the Beautiful ,Kit Makinson,,Koepp Inc,1987,620,Documentary,0.1
+3,Carpool,Hollie Calendar,,Bashirian LLC,2008,780,Comedy|Crime,0.1
+3,"Big Bounce, The",Orv Flewett,,Krajcik-Haag,2008,103,Comedy|Crime|Thriller,0.1
+1,Newsies,Zacharie Whysall,,Moore Group,1999,793,Children|Musical,0.1
+2,Beowulf,Gladi Euels,,Grimes and Sons,2006,805,Action|Horror|Sci-Fi,0.1
+1,Dersu Uzala,Worth Carnock,Meris Clemot,"Mertz, Bins and Marvin",2006,747,Adventure|Drama,0.1
+2,Nurse Betty,Mureil Rasch,Elfreda Moehle,"Rice, Ratke and Goldner",2004,179,Comedy|Crime|Drama|Romance|Thriller,0.1
+2,"Lonely Guy, The",Ario Hardacre,,Dicki Group,2011,354,Comedy,0.1
+3,Kicked in the Head,Jeanine Allone,,"Rempel, McDermott and Weimann",2012,694,Comedy|Drama,0.1
+3,"Hand of Death, The (Shao Lin men)",Erasmus Merit,,"Schneider, Lubowitz and Stamm",2011,684,Action,0.1
+3,Scarecrow,Faustina Witsey,,Legros-Ryan,2008,926,Drama,0.1
+1,"Sense of History, A",Kaycee Hugin,,"Stracke, Gislason and Nitzsche",2011,844,Comedy|Crime|Drama,0.1
+2,Whores' Glory,Jenda Hurdidge,,McGlynn-Watsica,2008,673,Documentary,0.1
+3,"Wake Up, Ron Burgundy",Hermione Aumerle,Harry Capnor,Herman-Barton,1996,498,Comedy,0.1
+3,"Barber of Siberia, The (Sibirskij tsiryulnik)",Emanuel Gange,,Von-Vandervort,2006,202,Drama|Romance,0.1
+1,Wrong Turn 5: Bloodlines,Wini Carss,Brendon Whetnall,Goldner-Wolff,1987,776,Horror|Thriller,0.1
+3,Brigham Young,Devondra Revens,,"Schaefer, Sipes and Wilkinson",2006,349,Romance|Western,0.1
+3,"Conspirator, The",Shurwood Arghent,,Prohaska Group,2008,652,Drama,0.1
+2,Pressed,Bella Darville,,Rowe and Sons,2001,424,Action|Crime|Drama|Thriller,0.1
+3,Endgame,Rhett Babalola,Aggie Gawthorpe,Metz-Homenick,1999,880,Drama,0.1
+0,"Chronicles of Narnia: The Voyage of the Dawn Treader, The",Fernandina Pirrie,Ema Bonafant,"Stamm, Toy and Daniel",2002,136,Adventure|Children|Fantasy,0.1
+1,Howling III: The Marsupials,Ave Acklands,Druci McNickle,Muller-Weimann,2011,140,Comedy|Horror,0.1
+1,"Vernon, Florida",Kelsi Olsson,,Willms-Baumbach,1994,855,Documentary,0.1
+0,"Living Room of the Nation, The (Kansakunnan olohuone)",Sal Spilsted,Lee Hanfrey,Ankunding LLC,1989,727,Documentary,0.1
+2,Firewalker,Amy Slimm,,Rice and Sons,1999,163,Adventure,0.1
+1,Crime and Punishment,Jania Copper,,Ferry and Sons,1992,98,Drama,0.1
+0,Milk and Honey,Nina Klimus,,Dickens and Sons,1990,491,Drama,0.1
+3,Roadkill (a.k.a. Roadkill: Move or Die),Nert Wonfar,,O'Kon-Langosh,2011,622,Drama,0.1
+0,"Bridge, The (Brücke, Die)",Noel Storrock,,Lebsack-Purdy,1993,921,Drama|War,0.1
+3,Blood Night: The Legend of Mary Hatchet (Blood Night),Raphaela Diggons,,"Wisoky, Mann and Bogan",2009,605,Horror,0.1
+2,Sesame Street Presents Follow That Bird,Fannie Germaine,Antin Dwyr,"Rosenbaum, Predovic and Huels",1997,690,Children|Comedy,0.1
+3,Sherman's March,Belicia Mikalski,,Bechtelar Inc,1993,603,Documentary,0.1
+2,Python,Neysa Amort,Thane Babbe,Bradtke and Sons,2003,534,Comedy|Horror|Sci-Fi|Thriller,0.1
+1,"Small Circle of Friends, A",Elga Kubacki,,Nolan-Schneider,2009,415,Drama,0.1
+0,"Anniversary, The",Andromache Riddle,,Douglas and Sons,2011,770,Comedy|Drama|Horror|Thriller,0.1
+1,The 21 Carat Snatch,Oberon Pilsworth,,Leuschke LLC,2005,466,Crime,0.1
+3,Blackfish,Kaleb Huffey,Gretal Balaizot,Beatty LLC,2012,530,Documentary,0.1
+2,Tattoo,Davie Fergyson,Peria Mingard,"Emard, Schaden and Nikolaus",2004,461,Drama|Thriller,0.1
+2,"Hills Run Red, The",Ozzy Condict,Abby Grierson,Abbott-Ortiz,1996,389,Horror,0.1
+1,Mudhoney,Gustie Fereday,,Kovacek LLC,2008,96,Drama,0.1
+0,Wallace & Gromit: The Best of Aardman Animation,Cicily Peartree,Archibold Bulpitt,Stark Group,1988,361,Adventure|Animation|Comedy,0.1
+1,5x2,Dehlia Latchford,Henrik Bauman,Rippin and Sons,1996,609,Drama|Romance,0.1
+2,Spun,Toni Stuckow,,Treutel Group,2000,187,Comedy|Crime|Drama,0.1
+0,Gone Girl,Nickolas Quinn,Troy Crosen,Schmeler LLC,2005,257,Drama|Thriller,0.1
+0,Gentlemen,Jacob Tuddall,,Nitzsche-Littel,1987,598,Drama|Romance|Thriller,0.1
+3,Angry Video Game Nerd: The Movie,Codi Muschette,,Murazik Group,2003,981,Adventure|Comedy|Sci-Fi,0.1
+0,Harry Potter and the Deathly Hallows: Part 1,Scarlett Stannas,,Mertz-Farrell,2010,985,Action|Adventure|Fantasy|IMAX,0.1
+1,"First Deadly Sin, The",Elly Redley,,"Runte, Bauch and Boehm",2005,530,Thriller,0.1
+3,"Villain, The (Ek Villain)",Mona Kynforth,Thornie Woodson,Mayer Inc,1991,846,Action|Romance|Thriller,0.1
+3,D-Day,Milty de Castelain,Rodd Olifard,"Oberbrunner, Spinka and Schroeder",2004,974,Action|Thriller,0.1
+0,Belle comme la femme d'un autre,Jed Gayler,,"Huels, Hirthe and Carter",1993,843,Comedy,0.1
+2,Meu Passado Me Condena: O Filme,Alexio Harlow,,"King, Bernhard and Stehr",2008,101,Comedy|Romance,0.1
+0,"Galapagos Affair: Satan Came to Eden, The",Egan Faulconbridge,,Lemke Inc,2008,559,Crime|Documentary|Mystery,0.1
+3,"Cold Light of Day, The",Margeaux Meryett,,"Douglas, Greenfelder and Konopelski",1997,442,Action|Thriller,0.1
+0,Rob Roy,Magdaia Goede,,Dare-Haley,2007,296,Action|Drama|Romance|War,0.1
+0,Paulie,Gayel Springett,,Nicolas Group,1998,459,Adventure|Children|Comedy,0.1
+3,"Pier, The (Jetée, La)",Gianna Calwell,,Moore LLC,2004,429,Romance|Sci-Fi,0.1
+2,"Dark Knight, The",Lyndy Philo,,Carroll-Labadie,2006,174,Action|Crime|Drama|IMAX,0.1
+0,Brooklyn Dodgers: The Ghosts of Flatbush,Toma Ciobotaro,Graehme Birchenhead,Schmidt and Sons,1998,466,Documentary,0.1
+1,Champagne,Rona Heffron,,"Schuster, Haag and Hills",1996,128,Comedy,0.1
+1,Bleak Moments,Atlanta Ganny,,Gorczany and Sons,1994,508,Comedy|Drama,0.1
+1,Happy Christmas,Laina Shrimplin,Estelle Cowser,"Cormier, Torp and Carter",1989,936,Comedy|Drama,0.1
+1,Curdled,Cinda Cockin,Kaine Shirtliff,Reilly-Boyer,1983,283,Crime,0.1
+0,"Decalogue, The (Dekalog)",Katha Mirfield,,Langworth-Friesen,2001,940,Crime|Drama|Romance,0.1
+0,Bikes vs Cars,Tremayne McQuilkin,,"Kozey, Koelpin and Romaguera",1999,536,Documentary,0.1
+0,"Northerners, The (De noorderlingen)",Madel Croxton,Willie Chell,"Moore, Jones and Schimmel",2007,857,Comedy,0.1
+3,"Big Fix, The",Cameron Fripps,Celestina Daughton,"Mohr, Rolfson and Waters",1995,124,Comedy|Mystery|Thriller,0.1
+1,Magic Hunter (Büvös vadász),Hall Tinan,,Kemmer Inc,2008,866,Drama,0.1
+2,"Protector, The",Maddy Jepperson,,Rau Group,2003,519,Action|Comedy|Drama|Thriller,0.1
+1,What A Man,Jennette Rosekilly,,"Blick, Jakubowski and Ferry",1989,265,Comedy|Romance,0.1
+2,"Monitor, The (Babycall)",Tandi Rushmare,,"Larkin, Lindgren and Kunde",1999,442,Horror|Thriller,0.1
+1,Love Letter ,Shell Teissier,Brit Cello,"Considine, Bruen and Durgan",2005,776,Drama|Romance,0.1
+3,"Great Buck Howard, The",Moyna Chalfont,,"Stehr, Gulgowski and Hilll",2008,452,Comedy,0.1
+1,"Librarian, The: The Curse of the Judas Chalice",Carmella Giovannilli,Viki Rising,Grady-Kunze,2000,871,Action|Adventure|Fantasy,0.1
+1,Sleepless Night (Nuit blanche),Katharine Blomefield,,Donnelly LLC,1993,911,Action|Crime|Thriller,0.1
+1,My First Mister,Veriee Pimlott,Jacquelyn Mulcahy,"Kiehn, Pouros and Altenwerth",2005,900,Comedy|Drama,0.1
+1,"Prowler, The",Vanda Mordecai,,Schamberger LLC,2000,109,Drama|Film-Noir|Thriller,0.1
+1,Pornstar: The Legend of Ron Jeremy,Libbey Leech,,Flatley LLC,1983,80,Documentary,0.1
+2,"Perils of Pauline, The",Maryanna Antonellini,Lothaire Leare,"Sawayn, Roob and Lynch",2005,142,Comedy,0.1
+3,Senso,Angel Baff,,"Fadel, Medhurst and West",1994,651,Drama|Romance|War,0.1
+3,Law Abiding Citizen,Marris Stranger,Bessie Brickett,"Jacobson, Maggio and Schuppe",2007,579,Drama|Thriller,0.1
+2,House of 9,Shane Viste,,"Schimmel, Vandervort and Harris",1998,185,Drama|Horror|Mystery|Thriller,0.1
+2,Five Minutes to Live,Wait Cambden,,Kohler Inc,1993,259,Crime|Drama|Thriller,0.1
+2,You Ain't Seen Nothin' Yet (Vous n'avez encore rien vu),Eleonora Bellson,,Hoppe-Schumm,2009,383,Drama,0.1
+3,Cry_Wolf (a.k.a. Cry Wolf),Gaston Flisher,,"Labadie, Dare and Marquardt",1998,623,Drama|Horror|Mystery|Thriller,0.1
+0,Countdown to Looking Glass,Vonny Yoselevitch,Daren Koles,Bailey Inc,1999,335,Drama,0.1
+0,Wild Horses (Caballos salvajes),Gretchen Sprigging,Cherish Rivett,Schneider LLC,1994,316,Drama,0.1
+0,Chiko,George Piniur,Bjorn O'Callaghan,"Wiegand, Pouros and Hamill",2010,239,Crime|Drama,0.1
+1,"Day They Robbed the Bank of England, The",Ingunna Symes,Nadean Lowre,Mills-Hansen,2009,190,Crime|Drama,0.1
+1,Promised Land,Hollie Joddens,Melody Switland,"Haag, Paucek and Lemke",1988,938,Drama,0.1
+2,Behind the Burly Q: The Story of Burlesque in America,Kelsey Hasted,,"Hamill, Monahan and Anderson",2009,72,Documentary,0.1
+1,Bee Season,Ahmad Yalden,,"Gerhold, Ward and Murphy",2009,134,Drama,0.1
+0,Where Danger Lives,Beverley Shuttleworth,Kitty Clayson,Walsh LLC,1999,85,Drama|Film-Noir|Romance|Thriller,0.1
+3,"American Astronaut, The",Mathe Leibold,,Altenwerth-Lynch,2004,799,Comedy|Musical|Sci-Fi,0.1
+2,"Captain Thunder (Capitán Trueno y el Santo Grial, El) (Prince Killian and the Holy Grail)",Rurik Scarman,,"Heathcote, Durgan and Jacobi",1989,114,Adventure,0.1
+0,"Turkish Dance, Ella Lola",Benny Titterington,Randi Montgomery,Monahan-Rohan,2012,570,(no genres listed),0.1
+1,Krippendorf's Tribe,Sidonia Omand,,Hills-Waters,2010,978,Comedy,0.1
+3,"Misérables, Les",Ellyn Reppaport,,Maggio-Lehner,2001,954,Crime|Drama|Romance|War,0.1
+3,Travels with My Aunt,Melicent Thrower,,Wisoky Group,2010,574,Adventure|Comedy|Drama,0.1
+2,It's My Party,Sherwin Costy,Levon Widdowson,Haley LLC,1987,274,Drama,0.1
+1,Daylight (Daglicht),Eugenie Lidster,Celina Arundel,"Wisoky, McClure and Greenfelder",2011,685,Action|Thriller,0.1
+0,Cries and Whispers (Viskningar och rop),Kyle Jakolevitch,,"O'Conner, Schumm and Effertz",1997,713,Drama,0.1
+1,Dark Horse,Chelsie Virr,,Gerhold Inc,1997,921,Drama,0.1
+0,Those Daring Young Men in Their Jaunty Jalopies,Dredi Kerrane,,"Kozey, Lesch and Towne",1985,418,Adventure|Comedy|Crime|Romance,0.1
+3,Poseidon,Emera Mac,,Reinger LLC,1963,886,Action|Adventure|Thriller|IMAX,0.1
+2,Poison Ivy: New Seduction,Dolli Giovanazzi,,"Bauch, Macejkovic and Hayes",1986,636,Drama|Thriller,0.1
+2,Somewhere Between,Allx Saunier,,Wuckert Inc,2005,380,Documentary,0.1
+0,In the Heart of the Sea,James Dodson,,Pagac Group,1995,702,Action|Adventure|Drama,0.1
+1,Dallas Buyers Club,Jessi Matijevic,Danyette Darko,Mitchell-Hansen,2007,529,Drama,0.1
+2,Captives,Arlinda Saxton,Nicko Searston,Armstrong and Sons,1998,445,Crime|Drama|Romance|Thriller,0.1
+1,Inferno,Jobey Sweating,,Kunde-Berge,2002,863,Horror,0.1
+3,Jodhaa Akbar,Carmel Haslen,Blake Glassopp,"Hilpert, Funk and Stehr",1997,929,Drama|Musical|Romance|War,0.1
+0,And Nobody Weeps for Me (Und keiner weint mir nach),Stephanus Keynes,,"Kiehn, Nikolaus and Christiansen",2012,219,Drama|Romance,0.1
+1,Raw Deal,Vail Faragan,,Murazik-Nitzsche,2005,176,Action,0.1
+1,Small Faces,Shandee Melin,,"Denesik, Hane and Senger",2012,460,Drama,0.1
+1,"Leopard, The (Gattopardo, Il)",Connie Dearman,,Moen Group,2007,822,Drama|War,0.1
+2,"Blues Brothers, The",Vivienne Simmank,,Breitenberg-Dietrich,2002,592,Action|Comedy|Musical,0.1
+0,Atomic Twister,Else Solley,,Predovic-Balistreri,1997,815,Action|Drama|Sci-Fi,0.1
+0,Home Alone 2: Lost in New York,Libbie Salsbury,,Mitchell-Schneider,1989,388,Children|Comedy,0.1
+2,Bad Girls Go To Hell,Pate Buten,,Feeney Group,2007,74,Drama,0.1
+3,Cargo 200 (Gruz 200),Carma Linck,,Collier-Kris,2006,156,Drama,0.1
+2,Barricade,Tuckie Chappell,,Jaskolski-Hartmann,1999,208,Horror|Thriller,0.1
+2,Ways to Live Forever,Arturo Boffin,Sarine Truelock,Wilderman and Sons,1999,141,Children|Drama,0.1
+0,Mark Twain,Travis Bernucci,Theda Sandhill,"Baumbach, Conroy and Yost",1996,126,Documentary,0.1
+1,Blue Swallow (Cheong yeon),Earl McCoole,,"Maggio, Brown and VonRueden",2008,889,Drama|Romance,0.1
+2,"Jazz Singer, The",Darrel Timny,,"Bruen, Parisian and Morissette",2006,700,Musical,0.1
+3,"Amour fou, L'",Padriac Libero,,Bode-Hessel,2013,789,Drama,0.1
+3,Young Mr. Lincoln,Frank Gasticke,Nara Wharmby,"Kuhlman, Pagac and Fisher",1996,625,Drama,0.1
+1,Shrek Forever After (a.k.a. Shrek: The Final Chapter),Britney Stayte,,Thompson Inc,2005,243,Adventure|Animation|Children|Comedy|Fantasy|IMAX,0.1
+0,Picnic on the Grass (Le déjeuner sur l'herbe),Theodora McGlade,,Bauch-Streich,2008,881,Comedy|Romance,0.1
+0,Bend It Like Beckham,Creigh Coult,Cully Ewer,"Tillman, Wiza and Collier",2010,895,Comedy|Drama|Romance,0.1
+1,Jönssonligan spelar högt,Greta Edgler,Lemmie Killeley,Klein-Powlowski,1993,390,Comedy,0.1
+2,Puss in Boots: The Three Diablos,Tamar Durnall,Nicholas Sisnett,Will-Wolf,1990,624,Animation|Comedy,0.1
+0,AVPR: Aliens vs. Predator - Requiem,Konrad Bettaney,,"Conn, Hayes and Schoen",2011,644,Action|Horror|Sci-Fi,0.1
+2,Edge of Seventeen,Wells Elfitt,Deanna Corzon,Bechtelar-Borer,2009,971,Comedy|Drama|Romance,0.1
+2,All About Lily Chou-Chou (Riri Shushu no subete),Cornelius Simmell,,Grant LLC,1993,293,Crime|Drama|Thriller,0.1
+2,"¡Alambrista! (Illegal, The)",Valentin Antalffy,,Wilderman Group,2012,760,Drama,0.1
+1,High School,Gigi Seint,,Rogahn-Conn,2008,163,Documentary,0.1
+2,Salt of the Earth,Richardo Kemsley,,Kozey Inc,2005,379,Drama,0.1
+0,"Guide for the Married Man, A",Germayne Ferenczi,,Kunde-Cruickshank,2006,805,Comedy,0.1
+1,Children of the Corn III,Philip Imlin,Vail Snowding,Padberg-Roob,1999,336,Horror,0.1
+3,Shock Corridor,Teena Meriguet,,Ondricka Inc,2007,67,Drama,0.1
+2,Pure Country,Bald Prestage,Wait Matthisson,Fisher Group,1989,401,Drama|Musical|Romance,0.1
+2,"Happiness of the Katakuris, The (Katakuri-ke no kôfuku)",Janenna Kubanek,,"Sauer, Hand and Gislason",2003,88,Comedy|Horror|Musical,0.1
+3,I as in Icarus (I... comme Icare),Sisile McCobb,,Sauer Group,1999,192,Thriller,0.1
+1,"Apprenticeship of Duddy Kravitz, The",Lucais Corkel,,"Raynor, Wolf and Fritsch",2004,233,Comedy|Drama,0.1
+2,Musa the Warrior (Musa),Veradis Ubsdell,,Kling-Bogisich,2000,376,Action|Adventure|Drama|War,0.1
+1,Dave Attell: Captain Miserable,Kippie Guarnier,,"Cummerata, Romaguera and Schinner",1963,943,Comedy,0.1
+2,Adrenaline Drive (Adorenarin doraibu),Lucia Beldon,,Little and Sons,2009,86,Comedy,0.1
+1,Innocent Blood,Elroy Stalf,Ernie Beneze,Witting Group,1998,990,Comedy|Horror,0.1
+3,Apollo 18,Charil Sonnenschein,,Goodwin Group,1985,585,Horror|Sci-Fi|Thriller,0.1
+3,"Heat, The",Lyssa Rarity,Susan Startin,Bogan and Sons,1991,517,Action|Comedy|Crime,0.1
+1,Avalanche,Con Rapps,,"Heathcote, Glover and Senger",1997,219,Action,0.1
+1,Slaughterhouse,Verne Patifield,Birgit Fosse,"Barrows, Paucek and Walker",2003,951,Comedy|Horror,0.1
+0,Toomorrow,Riane Dowtry,,"Collins, Gerlach and Corwin",1998,778,Comedy|Musical|Sci-Fi,0.1
+1,Nazarin (Nazarín),Gabby Bizzey,Wash Ruppele,"Herman, Dibbert and Wehner",2006,709,Drama,0.1
+2,Bridget Jones: The Edge of Reason,Romy Matveichev,Ransom Lipson,Predovic-Blick,1994,931,Comedy|Drama|Romance,0.1
+3,Captain Kidd,Bessie Briereton,,"Bradtke, Glover and Stehr",2000,795,Action|Adventure|Drama,0.1
+3,Gurren Lagann: The Lights in the Sky are Stars (Gekijô ban Tengen toppa guren ragan: Ragan hen),Englebert Wyness,,Considine-Maggio,2008,94,Adventure|Animation|Drama|Sci-Fi|War,0.1
+2,Spacehunter: Adventures in the Forbidden Zone,Cori Greder,,Dach Group,1997,505,Sci-Fi,0.1
+0,Zincirbozan,Kati Redholls,,"Schowalter, Gibson and Tromp",2008,203,Crime|Drama,0.1
+2,Drawing Restraint 9,Nicol Bortoli,Perri Ties,Pfannerstill-Schneider,2001,170,Fantasy,0.1
+3,St. Vincent,Jorie Python,,Hills-Hahn,2006,709,Comedy,0.1
+1,Tinker Tailor Soldier Spy,Darleen Grinham,Orsola Hulance,Kuvalis and Sons,1992,462,Drama|Film-Noir|Thriller,0.1
+2,To the Left of the Father (Lavoura Arcaica),Belinda Trippett,,Schulist-Hintz,2009,123,Drama,0.1
+2,Words and Pictures,Glenden Blakelock,Ralf McIlmorow,"Langworth, Jenkins and Grant",2010,711,Comedy|Drama|Romance,0.1
+0,Somewhere,Adan Grahlmans,Clim O'Cullen,Torphy Group,2006,609,Drama,0.1
+2,"Officer and a Gentleman, An",Arturo Prestie,,Cole and Sons,2008,884,Drama|Romance,0.1
+2,Land of Silence and Darkness (Land des Schweigens und der Dunkelheit),Carlo Ridges,,"Lakin, Buckridge and Rempel",1993,493,Documentary,0.1
+3,"New Rulers of the World, The",Traci Millyard,,"Mertz, Lueilwitz and Barton",2012,292,Documentary,0.1
+2,Harry Potter and the Chamber of Secrets,Hoyt Perview,,"Russel, Bayer and Douglas",2003,615,Adventure|Fantasy,0.1
+3,Takva: A Man's Fear of God,Ambrosius Paolacci,,Buckridge Inc,2001,487,Drama,0.1
+0,Six-String Samurai,Paige Aspinall,Broderic Dumingos,"Volkman, Olson and Oberbrunner",2001,184,Action|Adventure|Sci-Fi,0.1
+3,Alvin and the Chipmunks: Chipwrecked,Egon Pawelec,Valentina Shotter,Swaniawski-Nicolas,1997,705,Animation|Comedy,0.1
+3,Hamsun,Doro Augar,,Stoltenberg-Runolfsson,1986,301,Drama|War,0.1
+0,Monte Carlo,Glennie Dowsey,Zechariah MacCarter,"Roberts, Gottlieb and Nicolas",1995,599,Adventure|Comedy|Romance,0.1
+2,Chori Chori Chupke Chupke,Rawley Edscer,Saba Larking,Kilback LLC,2007,265,Drama|Romance,0.1
+3,Fandry,Valentijn O' Hanvey,,Corkery-Schuppe,2001,610,Children|Drama,0.1
+3,Awakenings,Bobbe Antunez,,Will Inc,1999,694,Drama|Mystery,0.1
+0,America the Beautiful 2: The Thin Commandments ,Uta Luter,Laurie Noulton,Bauch Group,1997,366,Documentary,0.1
+0,Poison Ivy II,Reube Gillian,,Christiansen-Littel,2011,949,Drama|Thriller,0.1
+2,Trio,Granger Bapty,Madalyn Gatman,Schowalter Inc,1999,423,Drama|Romance,0.1
+0,"Bleeding, The",Cleve Gleeson,,Raynor Inc,1999,368,Action|Horror,0.1
+2,Lay the Favorite,Corly Tallet,,Abernathy Inc,1997,223,Comedy,0.1
+2,Killer Movie,Salvidor Dane,,Anderson Group,1992,756,Comedy|Horror|Mystery|Thriller,0.1
+2,Solo,Candi Smales,,Hahn LLC,2012,933,Action|Sci-Fi|Thriller,0.1
+2,Evil Bong,Hunfredo Howorth,,Kling-Shanahan,2001,639,Comedy|Horror,0.1
+3,Hop,Merv Smorthit,Dorothea Arger,Lang-Maggio,1998,770,Animation|Children|Comedy,0.1
+3,Hell Baby,Illa Caulier,,Lynch and Sons,1991,278,Comedy|Horror,0.1
+2,"Bottom of the Sea, The (El fondo del mar)",Levin Dingsdale,Harlen Vassbender,Hodkiewicz-O'Kon,2004,818,Drama|Thriller,0.1
+2,Little Man,Guendolen Vaux,,Moen-King,1993,832,Comedy,0.1
+0,Two Arabian Knights,Jarrad McCaughan,,Schuppe-Schuster,2002,870,Adventure|Comedy|Romance,0.1
+2,Elvira Madigan,Winnifred Fairest,Cecilio Di Meo,Donnelly-McKenzie,2008,725,Drama|Romance,0.1
+2,We Were Here,Devlin Powton,,Huel Inc,1973,866,Documentary,0.1
+1,"Mask of Zorro, The",Reuven Arbor,,Wilderman-Ryan,2012,278,Action|Comedy|Romance,0.1
+3,"War You Don't See, The",Yasmeen Colqueran,,Herzog-Schuppe,1995,140,Documentary,0.1
+2,Halloween: The Curse of Michael Myers (Halloween 6: The Curse of Michael Myers),Catlaina Halle,Creigh Doleman,Wolff LLC,1989,942,Horror|Thriller,0.1
+1,West Side Story,Sebastiano Liversidge,,"Buckridge, Price and Nicolas",2005,601,Drama|Musical|Romance,0.1
+2,"Back to the Garden, Flower Power Comes Full Circle",Rafa Caffrey,,Friesen LLC,1987,583,Documentary,0.1
+3,Modris,Susanna Dunrige,Ruddy Scartifield,West-Prosacco,2000,309,Drama,0.1
+1,"Banishment, The (Izgnanie)",Adrea Verrick,,Shields-Ebert,2010,302,Drama,0.1
+3,Dinosaurus!,Kaiser Barratt,,McDermott-Brakus,2006,310,Adventure|Comedy,0.1
+2,Clouds of May (Mayis sikintisi),Rebecca Tucknutt,Constanta Bierling,Bins and Sons,1988,200,Drama,0.1
+2,Survival Island (Three),Corliss Kippins,Silvester Pursey,Roberts Group,1996,151,Adventure|Drama|Horror,0.1
+0,Our Hospitality,Amelie Randals,,"Feeney, Brekke and Fay",1995,815,Comedy,0.1
+2,Kids in America,Nanny McCurlye,,"Block, McGlynn and Wiegand",2005,277,Comedy|Drama,0.1
+3,Howling II: Your Sister Is a Werewolf,Puff Fleisch,,"Senger, Shields and Kiehn",2002,56,Horror,0.1
+3,"Magnetic Man, The (Magneettimies)",Ailee Stollberger,,"Casper, Cronin and Lockman",1992,115,Documentary,0.1
+1,Marilena de la P7,Augusto Durban,Lezlie Barkas,Reichert-Lebsack,2008,745,Drama|Fantasy,0.1
+1,"Shoot First, Die Later",Jodi Giacobo,,Willms Group,2000,660,Action|Crime,0.1
+2,Parasomnia,Jud Tollerfield,Ingar Warrillow,Rohan-Schaden,2007,602,Horror|Romance|Thriller,0.1
+2,Quatermass 2 (Enemy from Space),Pavia Hubbucke,,Breitenberg Group,1999,821,Sci-Fi|Thriller,0.1
+3,Life After Tomorrow,Glenn Silman,,Brekke-Koepp,2000,608,Documentary,0.1
+2,Marley & Me: The Puppy Years,Margie MacConnal,,Murphy LLC,1976,591,Children|Comedy,0.1
+3,Where a Good Man Goes (Joi gin a long),Gisele Offield,Pippy Tarney,Koepp-Paucek,2010,91,Action|Drama|Thriller,0.1
+1,After Death (Posle smerti),Mikol Rolingson,,"Wilkinson, Blick and Johnston",1994,980,Drama,0.1
+3,Yolanda and the Thief,Mirabella Ricciardi,,Schaefer-Erdman,1997,174,Fantasy|Musical|Romance,0.1
+0,Soldier in the Rain,Brad Stubbes,Helen-elizabeth Shankster,McGlynn and Sons,2011,652,Comedy|Drama,0.1
+0,Majesteit,Forster Hiddersley,Land Sarjeant,Leuschke-Marquardt,1994,918,Drama,0.1
+0,Autopsy (Macchie Solari),Tibold Billham,Harmony Epperson,"Bins, Ward and Boyer",2009,740,Horror,0.1
+0,Born to Race,Thor Rixon,,Strosin Group,1996,324,Action,0.1
+2,Chasing Mavericks,Daven Cockerill,,Bauch LLC,2009,64,Drama,0.1
+1,Unfaithfully Yours,Elyssa Kuzma,,Kirlin LLC,2010,722,Comedy,0.1
+0,Karan Arjun,Richardo Noyes,,"Jacobson, Glover and Schowalter",1970,490,Drama,0.1
+2,Fireflies in the Garden,Imogene Glaister,,McCullough-Grant,1994,554,Drama,0.1
+1,Crime and Punishment in Suburbia,Glen Keatch,,Larkin-Ondricka,2010,215,Comedy|Drama,0.1
+0,Actresses (Actrices),Hestia Sappson,Carolee Culshaw,Rau LLC,2008,295,Comedy|Drama,0.1
+0,Hitler's Children,Alfie Gerssam,,"Braun, Yundt and Kautzer",2009,425,Documentary,0.1
+0,Angel in Cracow (Aniol w Krakowie),Penrod Goodlud,,"Abshire, Hansen and Haley",1997,846,Comedy|Drama,0.1
+0,Zombie Honeymoon,Krispin Blundell,,Sporer and Sons,1993,343,Drama|Horror|Romance,0.1
+3,The French Kissers,Rosalind Dawltrey,Fredelia Gutridge,"Reichel, Gottlieb and MacGyver",2003,754,Comedy,0.1
+3,Ballerina (La mort du cygne),Cathyleen Ferreo,Blondelle Galier,Murray-Kozey,1990,89,Children|Drama|Romance,0.1
+0,Pioneer (Pionér),Corrie Costi,Revkah Marco,"Kautzer, Hettinger and Kunze",2000,317,Thriller,0.1
+3,Cran d'arrêt,Lynea Halifax,Travers Langelay,Terry LLC,2007,744,Crime|Mystery|Thriller,0.1
+2,"Lost World, The",Alphard Stanlake,Tuesday Hellen,"Zieme, Kertzmann and Stark",1993,899,Adventure,0.1
+0,"Sport, Sport, Sport",Leo Aronov,,Volkman-Kirlin,1994,240,Comedy|Documentary,0.1
+2,Al Franken: God Spoke,Barbaraanne Grinter,,"Koss, Powlowski and Sanford",2011,910,Documentary,0.1
+1,Tape,Jaymee Crittal,Hamel Janes,Schmitt and Sons,2007,221,Drama,0.1
+1,"Woman Is a Woman, A (femme est une femme, Une)",Jessalyn Fairman,,"Halvorson, Kling and Collins",2006,288,Comedy|Drama|Musical|Romance,0.1
+1,Syriana,Bjorn McMechan,,Grady-Hackett,1992,169,Drama|Thriller,0.1
+1,99 Homes,Ellwood Lemonby,,Hane Inc,1993,759,Drama,0.1
+3,"Hurt Locker, The",Kahaleel Headon,Glynda Shalloo,"Kozey, Schinner and Ward",1990,626,Action|Drama|Thriller|War,0.1
+0,"Story Written with Water, A (Mizu de kakareta monogatari)",Garreth Gerant,,Brown-Baumbach,2002,611,Drama,0.1
+0,About a Boy,Reagan Atthowe,,"VonRueden, Swift and Ullrich",2009,847,Comedy|Drama|Romance,0.1
+2,"First Day of the Rest of Your Life, The (Le premier jour du reste de ta vie)",Elvira Sargant,,Romaguera-Effertz,1988,313,Comedy|Drama,0.1
+3,"Flight of the Phoenix, The",Fabian Towersey,,Johnson-MacGyver,2011,477,Action|Adventure|Drama,0.1
+2,Dollman,Robert Mabbitt,,Kihn LLC,1998,603,Action|Comedy|Crime,0.1
+0,Say It Isn't So,Evered Vaadeland,,Brekke-Casper,1970,726,Comedy|Romance,0.1
+2,"Wanderers, The",Elsworth Bernot,,Bogisich-Mayert,2009,345,Drama,0.1
+2,Semi-Tough,Florie Gaiger,,"Auer, VonRueden and Langosh",2001,487,Comedy,0.1
+1,Strange Magic,Roobbie Leyden,,Kassulke-Roob,1988,948,Animation|Children|Fantasy,0.1
+1,"Importance of Being Earnest, The",Ingrim Delyth,,Balistreri LLC,2005,169,Comedy|Drama|Romance,0.1
+0,"Congress, The",Eliot Songest,Silva Yankov,Stracke-Schulist,2000,714,Documentary,0.1
+2,"Thin Man, The",Starlin Bonus,Dun Hofer,"Lang, Quitzon and Muller",1992,324,Comedy|Crime,0.1
+2,Long Day's Journey Into Night,Amy Dimitru,,"McDermott, Gerlach and Hansen",2009,416,Drama,0.1
+0,"Towering Inferno, The",Truda Hugk,Kristofor Godby,Koepp-O'Reilly,1994,875,Action|Adventure|Drama|Thriller,0.1
+1,Hotel de Love,Ronnie Pink,,Adams-Mayer,2011,296,Comedy|Romance,0.1
+1,Titanic,Thorvald Osselton,Linnet Archbould,"Sipes, Hermiston and Monahan",2008,981,Action|Drama|Romance,0.1
+3,Metal Brothers (Mammas pojkar),Sarette Avraam,,"Hintz, Halvorson and Lindgren",1964,735,Comedy,0.1
+2,Good Work (Beau travail),Tessa Aggs,Jock Kersaw,Little-Cremin,1997,401,Drama,0.1
+2,Grace of My Heart,Oralee Page,,"Volkman, Collins and Feest",2007,452,Comedy|Drama,0.1
+3,Eye See You (D-Tox),Edmon Pierton,,"Conn, Langworth and Keeling",1995,426,Horror|Thriller,0.1
+1,Killers,Vi Chinnock,,Harber-Beier,2010,470,Action|Crime|Drama|Thriller,0.1
+0,Baby Geniuses,Simonette Sills,Elisabet Perigoe,Keebler-Wisoky,2002,165,Comedy,0.1
+2,Murder in Coweta County,Eran Moatt,,Bogisich Inc,1998,211,Crime|Drama,0.1
+0,American Grindhouse,Emmi Kingscott,Costanza Boick,Abbott Inc,2009,770,Documentary,0.1
+1,Invitation to Happiness,Ivy Clue,,Adams Inc,1984,695,Drama|Romance,0.1
+0,Hellraiser: Hellworld,Sheridan Dalling,Karrah Stallan,"Ziemann, Altenwerth and Emmerich",1986,371,Horror,0.1
+0,"Normal Heart, The",Jasper Collens,,Reynolds Inc,2013,189,Drama,0.1
+2,Oscar,Brett Budnk,,"Casper, Berge and Torp",2010,919,Comedy|Crime|Mystery|Romance,0.1
+2,Them!,Lenette Duxbarry,Quint Gainforth,Walker LLC,2002,762,Horror|Sci-Fi|Thriller,0.1
+3,I Am Not a Hipster,Evey Siehard,Garry Cordingley,"Lockman, Parisian and Haag",1988,663,Drama,0.1
+1,Stingray Sam,Ash Rhucroft,,Flatley-Metz,2002,581,Comedy|Musical|Sci-Fi|Western,0.1
+0,No Turning Back,Auguste Smickle,Rorie Eisold,"Bauch, Tromp and Wehner",2006,417,Adventure|Drama|Thriller,0.1
+2,House of Sand (Casa de Areia),Helen-elizabeth Furbank,,"Ferry, Weber and Mueller",2004,477,Drama,0.1
+1,De la servitude moderne,Leann Bursell,Virginie Nemchinov,"Wunsch, Harris and Goodwin",2012,222,Documentary,0.1
+1,Rhinestone,Hodge Coverdill,,"Romaguera, Greenfelder and Tremblay",2003,871,Comedy,0.1
+2,Los Angeles Plays Itself,Christian Frost,,Mayert and Sons,2003,582,Documentary,0.1
+1,Wanda Nevada,Ivan Temple,Yorke Worcester,Yost-Zulauf,1996,741,Comedy|Mystery|Romance|Western,0.1
+1,Fifty Shades of Grey,Silas Dyball,,Morissette LLC,1991,133,Drama,0.1
+0,Enter Nowhere,Candis Beesey,,"Langosh, Heidenreich and Kreiger",1999,569,Mystery|Thriller,0.1
+2,Theodora Goes Wild,Dill Maypother,,Hegmann-Bins,2004,899,Comedy|Romance,0.1
+2,"Dance Party, USA",Merilyn Norcross,Hugibert Pagel,Muller-Nienow,2000,170,Drama,0.1
+2,Baby Face,Chrystel McGarvie,Sasha Greatbach,Sauer-Armstrong,2008,267,Drama,0.1
+2,American Ninja 3: Blood Hunt,Franciskus Titford,Janenna Mold,Cronin Group,2012,870,Action|Adventure,0.1
+1,"Fast Five (Fast and the Furious 5, The)",Paulina Havis,,Ruecker-Leuschke,2000,622,Action|Crime|Drama|Thriller|IMAX,0.1
+2,"Manxman, The",Yuma Lafee,,Corkery-Upton,2008,679,Drama,0.1
+1,"Lusty Men, The",Karine Risely,Jobi Fish,Trantow and Sons,2010,278,Action|Drama|Western,0.1
+3,Money as Debt,Noland Samarth,Georgianne Kopacek,Jenkins Group,1996,276,Animation|Documentary,0.1
+0,Teenage Dirtbag,Blinny Smee,Ted Kerr,Gaylord LLC,2012,709,Drama,0.1
+3,Legend of the Village Warriors (Bangrajan),Melisenda Olivelli,Danyette Fellows,Dibbert-Bartell,1992,549,Action|Drama|War,0.1
+0,Glen or Glenda,Lanni Stitwell,Tammy Vedenisov,Botsford-Veum,2006,830,Drama,0.1
+1,For the Love of a Dog,Nolie Siney,,"Beier, Wolf and Rice",1990,840,Children,0.1
+3,Dark Passage,Jehu Ledwich,Rivkah Haquard,Hackett-Gutmann,2001,256,Crime|Drama|Film-Noir|Romance|Thriller,0.1
+0,Mission London,Burch Newbegin,,Hammes LLC,2003,604,Comedy,0.1
+2,Paziraie Sadeh,Giselle Dielhenn,Gerry Conrath,Larkin LLC,2009,487,Drama,0.1
+1,Wedding Bell Blues,Flora Milnes,Vitoria Simonsen,VonRueden LLC,2010,419,Comedy,0.1
+2,East Meets West (Dung sing sai tsau 2011),Lilly Eastmond,Gizela Tavinor,Bogisich LLC,1995,835,Comedy,0.1
+0,Fresh,Filberte Hulatt,,Williamson and Sons,1996,557,Crime|Drama|Thriller,0.1
+1,Boy,Lonnard Dillway,,"Boyle, Hudson and Wisoky",2009,401,Comedy|Drama,0.1
+2,Thumbsucker,Marti Fetteplace,Gardie Lembcke,"Abshire, Harris and Hartmann",2009,461,Comedy|Drama,0.1
+1,The Good Son,Buck Madill,,"Hauck, Lowe and Becker",1997,179,Thriller,0.1
+0,People on Sunday (Menschen am Sonntag),Lorianna Bugden,,Gleichner-Schamberger,2006,103,Documentary|Drama|Romance,0.1
+0,Ministry of Fear,Elisa Langthorn,,McGlynn-Turner,2012,385,Drama|Film-Noir|Thriller,0.1
+1,Urban Legends: Final Cut,Fran Gibbs,Crysta McGuire,"Bruen, Balistreri and Waelchi",1992,672,Horror,0.1
+2,Heartbeeps,Abba Claeskens,,Zieme-Hegmann,2008,508,Comedy|Sci-Fi,0.1
+2,In Like Flint,Jerad Franz,,Bogisich and Sons,1996,737,Action|Adventure|Comedy,0.1
+0,Ask Me Anything,Diahann Lightollers,Jephthah Trosdall,"Gibson, Kshlerin and Reynolds",2011,52,Drama|Mystery|Thriller,0.1
+2,Nickelodeon,Florina Linfoot,Renard Turmell,"Hettinger, Treutel and Jaskolski",2007,406,Comedy,0.1
+1,Assa,Lib Kem,Hasheem Fripps,Rutherford LLC,2000,180,Crime|Drama,0.1
+2,Hiroshima ,Nollie Drage,,Rutherford Group,2003,86,Documentary,0.1
+2,Free Willy 2: The Adventure Home,Gregoire Kamen,,Franecki and Sons,1993,780,Adventure|Children|Drama,0.1
+2,True Stories,Lilias Gowrich,Ermanno Garric,Rempel-Lebsack,1985,942,Comedy|Musical,0.1
+2,1-900,Natalina Opdenorth,,"Leannon, Hickle and Schultz",1994,137,Drama|Romance,0.1
+2,Laid To Rest,Jennifer Aspinell,Filbert Prozillo,Hudson-Heathcote,1997,117,Horror,0.1
+2,Wings of Courage,Hedi Callender,,"Witting, O'Connell and Ebert",1998,197,Adventure|Romance|IMAX,0.1
+3,In the Cut,Lonnard Niles,,Prohaska-Ebert,2010,904,Crime|Drama|Mystery|Romance|Thriller,0.1
+0,Before the Devil Knows You're Dead,Maryann Emblem,Janelle Colnett,Walker Group,2002,980,Crime|Drama|Thriller,0.1
+3,"Pool, The (Swimming Pool - Der Tod feiert mit) ",Sherilyn Brittoner,Christa Jeandillou,Grimes-Nicolas,1984,294,Horror|Thriller,0.1
+3,Come and See (Idi i smotri),Zolly MacMillan,Cybill Thurlbourne,Larson-Mitchell,2012,256,Drama|War,0.1
+3,Superproduction (Superprodukcja),Godiva Kendal,Clair Zannelli,Jones Group,2002,176,Comedy,0.1
+2,City Island,Sheff Rickcord,,Goodwin LLC,2006,879,Comedy|Drama,0.1
+0,Generation X,Constantin Jex,,"Schultz, Cassin and Morar",1992,298,Action|Adventure|Sci-Fi,0.1
+1,The Monkey King,Karel Hardaway,Rochella Gebbe,Huel-Kuhlman,1988,179,Action|Adventure|Children|IMAX,0.1
+0,Rawhead Rex,Johan Thomas,,Terry-Ratke,1986,401,Horror|Thriller,0.1
+3,Home Movie,Louisette Walliker,,Jaskolski and Sons,2000,254,Horror|Thriller,0.1
+
