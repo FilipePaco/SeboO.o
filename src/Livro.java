@@ -55,96 +55,174 @@ public class Livro implements java.io.Serializable
         this.categoria = categoria;
     }
 
+    
+    /** 
+     * @return String
+     */
     public String getAutor() 
     {
         return autor;
     }
 
+    
+    /** 
+     * @return String
+     */
     public String getCategoria() 
     {
         return categoria;
     }
 
+    
+    /** 
+     * @return String
+     */
     public String getEdicao() 
     {
         return edicao;
     }
 
+    
+    /** 
+     * @return String
+     */
     public String getEditora() 
     {
         return editora;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getEstado() 
     {
         return estado;
     }
 
+    
+    /** 
+     * @return String
+     */
     public String getIlustrador()
     {
         return ilustrador;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getNumpag() 
     {
         return numpag;
     }
 
+    
+    /** 
+     * @return float
+     */
     public float getPreco()
     {
         return preco;
     }
 
+    
+    /** 
+     * @return String
+     */
     public String getTitulo() 
     {
         return titulo;
     }
 
+    
+    /** 
+     * @param autor
+     */
     public void setAutor(String autor) 
     {
         this.autor = autor;
     }
 
+    
+    /** 
+     * @param categoria
+     */
     public void setCategoria(String categoria)
     {
         this.categoria = categoria;
     }
 
+    
+    /** 
+     * @param edicao
+     */
     public void setEdicao(String edicao) 
     {
         this.edicao = edicao;
     }
 
+    
+    /** 
+     * @param editora
+     */
     public void setEditora(String editora)
     {
         this.editora = editora;
     }
 
+    
+    /** 
+     * @param estado
+     */
     public void setEstado(int estado)
     {
         this.estado = estado;
     }
 
+    
+    /** 
+     * @param ilustrador
+     */
     public void setIlustrador(String ilustrador)
     {
         this.ilustrador = ilustrador;
     }
 
+    
+    /** 
+     * @param numpag
+     */
     public void setNumpag(int numpag) 
     {
         this.numpag = numpag;
     }
 
+    
+    /** 
+     * @param preco
+     */
     public void setPreco(float preco) 
     {
         this.preco = preco;
     }
 
+    
+    /** 
+     * @param titulo
+     */
     public void setTitulo(String titulo) 
     {
         this.titulo = titulo;
     }
     
+    
+    /** 
+     * @param a
+     * @param b
+     * @param c
+     */
     void avaliacao(int a, int b, int c)
     {
 
@@ -220,6 +298,10 @@ public class Livro implements java.io.Serializable
      }
     }
 
+    
+    /** 
+     * @return int
+     */
     //testar essa função
 
     public static int quant()
@@ -227,6 +309,10 @@ public class Livro implements java.io.Serializable
         return quant;
     }
 
+    
+    /** 
+     * @param quanti
+     */
     public static void setQuant(int quanti)
     {
         quant = quanti;
@@ -237,6 +323,10 @@ public class Livro implements java.io.Serializable
         quant = quant - 1;
     }
 
+    
+    /** 
+     * @return String
+     */
     public String toString()
     {
         return "|------------------------------------------------------------------------------------|\n"+

@@ -6,6 +6,11 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 
 public class Gravador {
+	
+	/** 
+	 * @param args
+	 * @throws ClassNotFoundException
+	 */
 	public static void main(String[] args) throws ClassNotFoundException {
 
 		String arquivo;

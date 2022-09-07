@@ -58,15 +58,28 @@ public class Acervo extends BasicAc {
 	   catch (Exception e) { e.printStackTrace(); }
   }
 	
-    public Livro getL(int i)
+    
+	/** 
+	 * @param i
+	 * @return Livro
+	 */
+	public Livro getL(int i)
 	{
 		return livros.get(i);
 	}
     
+	
+	/** 
+	 * @param livro
+	 */
 	public void addLivro(Livro livro) 
 	{
 		this.livros.add(livro);
 	}
+	
+	/** 
+	 * @param livro
+	 */
 	//testar o adcionamento de livros
 	// Método que verifica se o livro existe na lista e o remove através do parâmetro. Se o livro não constar na lista, mostra mensagem de erro.
 	public void excluirLivro(Livro livro) 
@@ -80,6 +93,10 @@ public class Acervo extends BasicAc {
 			} 
 		}	
 	}
+	
+	/** 
+	 * @return String
+	 */
 	//testar o excluimento de livros
 
 	public String toString() 

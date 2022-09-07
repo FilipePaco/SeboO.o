@@ -2,10 +2,15 @@
 import javax.swing.JDialog;
 import javax.swing.JOptionPane;
 
-//Temos testes em Pessoa, Acervo e Livro.
+//Temos testes em Pessoa e Acervo .
 
 public class Main 
 {
+    
+    /** 
+     * @param args
+     * @throws ClassNotFoundException
+     */
     public static void main(String[] args) throws ClassNotFoundException
     {
        // int op = 0;
@@ -113,6 +118,10 @@ public class Main
 
 
 
+    
+    /** 
+     * @return String
+     */
     static String menuPessoa()
     {
                  Object[] options1 = {"Sim",
@@ -133,6 +142,10 @@ public class Main
 
     }
 
+   
+   /** 
+    * @return String
+    */
    static String menu()
     {
         // "\n1- Comprar um livro\n2- Vender um livro\n3- Pesquisar um livro\n4-Consultar acervo\n0- Finaliza o programa";
@@ -155,6 +168,11 @@ public class Main
         return String.valueOf(selecionar);
     }
 
+    
+    /** 
+     * @param mensagem
+     * @return int
+     */
     static int menuYN(String mensagem)
     {
         // "\n1- Comprar um livro\n2- Vender um livro\n3- Pesquisar um livro\n4-Consultar acervo\n0- Finaliza o programa";
@@ -173,6 +191,10 @@ Object selecionar = JOptionPane.showOptionDialog(null,
         return Integer.parseInt(String.valueOf(selecionar));
     }
 
+    
+    /** 
+     * @return String
+     */
     static String menuAdmin()
     {
         // "\n1- Comprar um livro\n2- Vender um livro\n3- Pesquisar um livro\n4-Consultar acervo\n0- Finaliza o programa";
@@ -197,6 +219,11 @@ Object selecionar = JOptionPane.showOptionDialog(null,
         return String.valueOf(selecionar);
     }
     
+    
+    /** 
+     * @param pessoas
+     * @return Pessoa
+     */
     static Pessoa pessoa(Regpess pessoas)
     {
         
@@ -246,6 +273,11 @@ Object selecionar = JOptionPane.showOptionDialog(null,
         }
     }
 
+    
+    /** 
+     * @param pessoa
+     * @param pessoas
+     */
     static void pessoal(Pessoa pessoa, Regpess pessoas)
     {
         Object[] options1 = 
@@ -330,6 +362,13 @@ Object selecionar = JOptionPane.showOptionDialog(null,
     }
     
 
+    
+    /** 
+     * @param pessoa
+     * @param acervo
+     * @param registrar
+     * @param pessoas
+     */
     static void comprar(Pessoa pessoa, Acervo acervo, Registrar registrar, Regpess pessoas)
     {
         String titulo = new String (JOptionPane.showInputDialog(null,"Digite o nome do livro que deseja comprar")); 
@@ -346,6 +385,7 @@ Object selecionar = JOptionPane.showOptionDialog(null,
             if(!pessoa.getEndereco().equals(null))
             {
             livro = pessoa.pesquisarLivro(titulo, esc, acervo);
+            livro.setPreco(livro.getPreco()*2.0f);
             sim = menuYN("Finalizaremos sua compra em um instante,enviaremos o livro: \n" + livro  + "\n Para o seguinte endereço: " + pessoa.getEndereco() + "\n Está tudo correto?");
             }
             else
@@ -405,6 +445,12 @@ Object selecionar = JOptionPane.showOptionDialog(null,
         
   }
 
+    
+    /** 
+     * @param pessoa
+     * @param acervo
+     * @param registrar
+     */
     static void vender(Pessoa pessoa, Acervo acervo, Registrar registrar)
     {
         String titulo1 = JOptionPane.showInputDialog("Insira o titulo do livro que deseja vender");
